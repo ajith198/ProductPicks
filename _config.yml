@@ -1,0 +1,16 @@
+title: Pickleball Gear Guide
+description: >-
+  Honest, no-hype pickleball paddle, shoe, and gear reviews and buying guides
+  for recreational and intermediate players.
+theme: minima
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+markdown: kramdown
+permalink: /:categories/:title/
+
+minima:
+  skin: classic
+
+show_excerpts: true
