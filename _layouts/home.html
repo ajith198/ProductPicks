@@ -1,0 +1,20 @@
+---
+layout: default
+---
+<div class="intro">
+  {{ content }}
+</div>
+
+<div class="section-label">Latest guides</div>
+<ul class="catalog">
+  {% for post in site.posts %}
+  <li class="catalog-entry">
+    {% if post.categories.first %}
+    <div class="catalog-eyebrow">{{ post.categories.first | replace: '-', ' ' }}</div>
+    {% endif %}
+    <h2 class="catalog-title"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+    {% if post.description %}<p class="catalog-dek">{{ post.description }}</p>{% endif %}
+    <div class="catalog-meta">{{ post.date | date: "%B %-d, %Y" }}</div>
+  </li>
+  {% endfor %}
+</ul>

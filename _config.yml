@@ -1,15 +1,11 @@
 title: ProductPicks
 description: >-
   Honest, no-fluff buying guides and product comparisons.
-theme: minima
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 
 markdown: kramdown
 permalink: /:categories/:title/
-
-minima:
-  skin: classic
 
 show_excerpts: true

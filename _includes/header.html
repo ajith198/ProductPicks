@@ -1,0 +1,33 @@
+<header class="masthead">
+  <div class="wrap">
+    <div>
+      <a class="site-title" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+      <div class="site-tagline">Buying guides, judged on the merits</div>
+    </div>
+    <nav class="primary">
+      <a href="{{ '/' | relative_url }}">Guides</a>
+      <a href="{{ '/about/' | relative_url }}">About</a>
+      <a href="{{ '/disclosure/' | relative_url }}">Disclosure</a>
+      <button class="theme-toggle" id="pp-theme-toggle" type="button" aria-label="Toggle dark mode">Dark</button>
+    </nav>
+  </div>
+</header>
+<script>
+  (function () {
+    var btn = document.getElementById('pp-theme-toggle');
+    var root = document.documentElement;
+    function label() {
+      var current = root.getAttribute('data-theme');
+      btn.textContent = current === 'dark' ? 'Light' : 'Dark';
+    }
+    label();
+    btn.addEventListener('click', function () {
+      var prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+      var current = root.getAttribute('data-theme') || (prefersDark ? 'dark' : 'light');
+      var next = current === 'dark' ? 'light' : 'dark';
+      root.setAttribute('data-theme', next);
+      localStorage.setItem('pp-theme', next);
+      label();
+    });
+  })();
+</script>
