@@ -6,7 +6,7 @@ permalink: /disclosure/
 
 **Last updated: 2026-07-11**
 
-Pickleball Gear Guide is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com and affiliated sites.
+ProductPicks is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com and affiliated sites.
 
 In plain language: when you click certain links on this site and make a purchase, we may earn a small commission at no additional cost to you. This helps support the research and writing that goes into our reviews and guides.
 
