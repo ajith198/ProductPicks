@@ -2,4 +2,4 @@
 
 See [today.md](today.md) for the full daily summary.
 
-Latest post: [Best Pickleball Paddles for Beginners in 2026 (Without Overspending)](_posts/2026-07-11-best-pickleball-paddles-for-beginners.md)
+Latest post: [Best Pickleball Shoes for Beginners in 2026 (Don't Play in Running Shoes)](_posts/2026-07-12-best-pickleball-shoes-for-beginners.md)
