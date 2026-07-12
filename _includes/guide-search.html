@@ -45,7 +45,7 @@
     var yearSelect = document.getElementById('pp-filter-year');
     var resetBtn = document.getElementById('pp-filter-reset');
     var status = document.getElementById('pp-search-status');
-    var entries = Array.prototype.slice.call(document.querySelectorAll('.catalog-entry'));
+    var entries = [];
 
     function applyFilters() {
       var text = textInput.value.trim().toLowerCase();
@@ -82,6 +82,11 @@
       categorySelect.value = '';
       subcategorySelect.value = '';
       yearSelect.value = '';
+      applyFilters();
+    });
+
+    document.addEventListener('DOMContentLoaded', function () {
+      entries = Array.prototype.slice.call(document.querySelectorAll('.catalog-entry'));
       applyFilters();
     });
   })();
