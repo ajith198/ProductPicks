@@ -5,11 +5,19 @@ layout: default
   {{ content }}
 </div>
 
+{% include guide-search.html %}
+
 <div class="section-label">Latest guides</div>
 <ul class="catalog">
   {% for post in site.posts %}
-  <li class="catalog-entry">
-    {% if post.categories.first %}
+  <li class="catalog-entry"
+      data-category="{{ post.category | escape }}"
+      data-subcategory="{{ post.subcategory | escape }}"
+      data-year="{{ post.date | date: "%Y" }}"
+      data-search="{{ post.title | append: ' ' | append: post.description | downcase | escape }}">
+    {% if post.subcategory %}
+    <div class="catalog-eyebrow">{{ post.category }} &middot; {{ post.subcategory }}</div>
+    {% elsif post.categories.first %}
     <div class="catalog-eyebrow">{{ post.categories.first | replace: '-', ' ' }}</div>
     {% endif %}
     <h2 class="catalog-title"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>

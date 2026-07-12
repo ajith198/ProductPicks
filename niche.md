@@ -1,6 +1,8 @@
 # Niche
 
-**Chosen niche: Pickleball gear & accessories (buyer-intent reviews, comparisons, and buying guides)**
+**Original niche: Pickleball gear & accessories (buyer-intent reviews, comparisons, and buying guides)**
+
+**Update, 2026-07-12: the site has expanded beyond this single niche into a multi-category buying-guide site.** This file is kept as-is below for historical record of the reasoning that launched the site. For the current active categories, the taxonomy used in post front matter, and how future subtopics/categories get chosen, see `categories.md`.
 
 ## Why this niche
 

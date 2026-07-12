@@ -177,6 +177,90 @@ main { padding: 48px 0 72px; }
 }
 .intro p { margin: 0 0 16px; }
 
+/* ---------- Guide search ---------- */
+
+.guide-search {
+  margin-top: 36px;
+  padding: 20px;
+  background: var(--paper-raised);
+  border: 1px solid var(--line-strong);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+}
+
+.guide-search-row + .guide-search-row { margin-top: 14px; }
+
+.guide-search-input {
+  width: 100%;
+  font-family: var(--font-body);
+  font-size: 1rem;
+  color: var(--ink);
+  background: var(--paper);
+  border: 1px solid var(--line-strong);
+  border-radius: var(--radius);
+  padding: 11px 14px;
+}
+.guide-search-input:focus-visible { outline: 2px solid var(--brass); outline-offset: 1px; }
+
+.guide-search-filters {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: end;
+  gap: 16px;
+}
+
+.guide-search-field {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  font-family: var(--font-mono);
+  font-size: 0.68rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--ink-soft);
+}
+
+.guide-search-field select {
+  font-family: var(--font-body);
+  font-size: 0.92rem;
+  text-transform: none;
+  letter-spacing: normal;
+  color: var(--ink);
+  background: var(--paper);
+  border: 1px solid var(--line-strong);
+  border-radius: var(--radius);
+  padding: 8px 10px;
+  min-width: 150px;
+}
+
+.guide-search-reset {
+  font-family: var(--font-mono);
+  font-size: 0.7rem;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: var(--ink-soft);
+  background: none;
+  border: 1px solid var(--line-strong);
+  border-radius: var(--radius);
+  padding: 8px 12px;
+  cursor: pointer;
+  align-self: flex-end;
+}
+.guide-search-reset:hover { border-color: var(--brass); color: var(--brass-strong); }
+
+.guide-search-status {
+  margin-top: 12px;
+  font-family: var(--font-mono);
+  font-size: 0.72rem;
+  color: var(--ink-soft);
+  min-height: 1em;
+}
+
+@media (max-width: 640px) {
+  .guide-search-filters { gap: 12px; }
+  .guide-search-field select { min-width: 120px; }
+}
+
 /* ---------- Index / catalog list ---------- */
 
 .section-label {

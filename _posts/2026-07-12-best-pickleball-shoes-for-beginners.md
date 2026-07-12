@@ -3,6 +3,8 @@ layout: post
 title: "Best Pickleball Shoes for Beginners in 2026 (Don't Play in Running Shoes)"
 date: 2026-07-12
 categories: [footwear, buying-guides]
+category: Sports
+subcategory: Pickleball
 tags: [pickleball shoes, beginners, buying guide]
 description: "Why court shoes matter more than most new players realize, what to look for (traction, lateral support, indoor vs outdoor soles), and real beginner-friendly pickleball shoe options across budgets."
 ---

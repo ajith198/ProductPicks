@@ -3,6 +3,8 @@ layout: post
 title: "Best Pickleball Paddles for Beginners in 2026 (Without Overspending)"
 date: 2026-07-11
 categories: [paddles, buying-guides]
+category: Sports
+subcategory: Pickleball
 tags: [pickleball paddles, beginners, buying guide]
 description: "A practical, no-hype guide to choosing your first pickleball paddle in 2026 — what actually matters (weight, grip, core, face material) and real budget-to-mid-range picks worth considering."
 ---
