@@ -19,9 +19,9 @@ These two fields drive the Category / Type / Year filters in the search bar on t
 
 | Category | Subcategories covered so far |
 |---|---|
-| Sports | Pickleball, Soccer, Tennis, Cycling |
-| Home & Kitchen | Coffee Makers |
-| Outdoor & Recreation | Camping Tents |
+| Sports | Pickleball, Soccer, Tennis, Cycling, Running |
+| Home & Kitchen | Coffee Makers, Electric Kettles |
+| Outdoor & Recreation | Camping Tents, Sleeping Bags |
 
 New subcategories can be added freely within an existing category. New top-level categories should only be added when there's a genuine cluster of buyer-intent content planned for it (not a one-off post) — keep the category list short enough that the dropdown filter stays useful.
 
