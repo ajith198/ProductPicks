@@ -1,4 +1,17 @@
 <div class="guide-search" id="pp-guide-search">
+  {% assign quick_subcategories = site.posts | map: "subcategory" | compact | uniq | sort %}
+  <div class="guide-search-row guide-quicklinks" role="group" aria-label="Browse by type">
+    <button type="button" class="guide-quicklink" data-subcategory="">
+      {% include category-icon.html name="" size=26 %}
+      <span>All guides</span>
+    </button>
+    {% for s in quick_subcategories %}
+    <button type="button" class="guide-quicklink" data-subcategory="{{ s }}">
+      {% include category-icon.html name=s size=26 %}
+      <span>{{ s }}</span>
+    </button>
+    {% endfor %}
+  </div>
   <div class="guide-search-row">
     <input type="text" id="pp-search-text" class="guide-search-input" placeholder="Search guides (e.g. &ldquo;paddle&rdquo;, &ldquo;tent&rdquo;)&hellip;" aria-label="Search guides">
   </div>
@@ -45,7 +58,15 @@
     var yearSelect = document.getElementById('pp-filter-year');
     var resetBtn = document.getElementById('pp-filter-reset');
     var status = document.getElementById('pp-search-status');
+    var quicklinks = Array.prototype.slice.call(document.querySelectorAll('.guide-quicklink'));
     var entries = [];
+
+    function updateQuicklinks() {
+      var active = subcategorySelect.value;
+      quicklinks.forEach(function (btn) {
+        btn.classList.toggle('is-active', btn.dataset.subcategory === active);
+      });
+    }
 
     function applyFilters() {
       var text = textInput.value.trim().toLowerCase();
@@ -63,6 +84,8 @@
         entry.style.display = show ? '' : 'none';
         if (show) visible += 1;
       });
+
+      updateQuicklinks();
 
       if (!text && !category && !subcategory && !year) {
         status.textContent = '';
@@ -83,6 +106,12 @@
       subcategorySelect.value = '';
       yearSelect.value = '';
       applyFilters();
+    });
+    quicklinks.forEach(function (btn) {
+      btn.addEventListener('click', function () {
+        subcategorySelect.value = btn.dataset.subcategory;
+        applyFilters();
+      });
     });
 
     document.addEventListener('DOMContentLoaded', function () {

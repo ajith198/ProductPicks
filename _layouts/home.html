@@ -15,14 +15,17 @@ layout: default
       data-subcategory="{{ post.subcategory | escape }}"
       data-year="{{ post.date | date: "%Y" }}"
       data-search="{{ post.title | append: ' ' | append: post.description | downcase | escape }}">
-    {% if post.subcategory %}
-    <div class="catalog-eyebrow">{{ post.category }} &middot; {{ post.subcategory }}</div>
-    {% elsif post.categories.first %}
-    <div class="catalog-eyebrow">{{ post.categories.first | replace: '-', ' ' }}</div>
-    {% endif %}
-    <h2 class="catalog-title"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
-    {% if post.description %}<p class="catalog-dek">{{ post.description }}</p>{% endif %}
-    <div class="catalog-meta">{{ post.date | date: "%B %-d, %Y" }}</div>
+    <div class="catalog-icon" aria-hidden="true">{% include category-icon.html name=post.subcategory size=24 %}</div>
+    <div class="catalog-body">
+      {% if post.subcategory %}
+      <div class="catalog-eyebrow">{{ post.category }} &middot; {{ post.subcategory }}</div>
+      {% elsif post.categories.first %}
+      <div class="catalog-eyebrow">{{ post.categories.first | replace: '-', ' ' }}</div>
+      {% endif %}
+      <h2 class="catalog-title"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+      {% if post.description %}<p class="catalog-dek">{{ post.description }}</p>{% endif %}
+      <div class="catalog-meta">{{ post.date | date: "%B %-d, %Y" }}</div>
+    </div>
   </li>
   {% endfor %}
 </ul>

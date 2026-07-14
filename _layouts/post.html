@@ -2,7 +2,12 @@
 layout: default
 ---
 <article class="post">
-  {% if page.categories.first %}
+  <div class="post-banner" aria-hidden="true">
+    <div class="post-banner-icon">{% include category-icon.html name=page.subcategory size=72 %}</div>
+  </div>
+  {% if page.subcategory %}
+  <div class="post-eyebrow">{{ page.category }} &middot; {{ page.subcategory }}</div>
+  {% elsif page.categories.first %}
   <div class="post-eyebrow">{{ page.categories.first | replace: '-', ' ' }}</div>
   {% endif %}
   <h1>{{ page.title }}</h1>
@@ -11,3 +16,14 @@ layout: default
     {{ content }}
   </div>
 </article>
+<script>
+  (function () {
+    document.addEventListener('DOMContentLoaded', function () {
+      var links = document.querySelectorAll('.post-body a[href*="amazon."]');
+      links.forEach(function (a) {
+        a.target = '_blank';
+        a.rel = 'sponsored noopener';
+      });
+    });
+  })();
+</script>

@@ -177,6 +177,10 @@ main { padding: 48px 0 72px; }
 }
 .intro p { margin: 0 0 16px; }
 
+/* ---------- Icons ---------- */
+
+.pp-icon { display: block; flex-shrink: 0; }
+
 /* ---------- Guide search ---------- */
 
 .guide-search {
@@ -189,6 +193,39 @@ main { padding: 48px 0 72px; }
 }
 
 .guide-search-row + .guide-search-row { margin-top: 14px; }
+
+.guide-quicklinks {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.guide-quicklink {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-family: var(--font-body);
+  font-size: 0.82rem;
+  color: var(--ink-soft);
+  background: var(--paper);
+  border: 1px solid var(--line-strong);
+  border-radius: 999px;
+  padding: 7px 14px 7px 8px;
+  cursor: pointer;
+}
+
+.guide-quicklink .pp-icon { color: var(--court); }
+:root[data-theme="dark"] .guide-quicklink .pp-icon { color: var(--brass); }
+@media (prefers-color-scheme: dark) { .guide-quicklink .pp-icon { color: var(--brass); } }
+
+.guide-quicklink:hover { border-color: var(--brass); color: var(--ink); }
+
+.guide-quicklink.is-active {
+  background: var(--court);
+  border-color: var(--court);
+  color: var(--paper);
+}
+.guide-quicklink.is-active .pp-icon { color: var(--paper); }
 
 .guide-search-input {
   width: 100%;
@@ -280,11 +317,29 @@ main { padding: 48px 0 72px; }
   padding: 26px 0;
   border-bottom: 1px solid var(--line);
   display: grid;
-  grid-template-columns: 1fr;
-  gap: 6px;
+  grid-template-columns: 44px 1fr;
+  gap: 16px;
 }
 
 .catalog-entry:first-child { padding-top: 0; }
+
+.catalog-icon {
+  width: 44px;
+  height: 44px;
+  border-radius: var(--radius);
+  background: var(--court);
+  color: var(--paper);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.catalog-body { display: flex; flex-direction: column; gap: 6px; min-width: 0; }
+
+@media (max-width: 560px) {
+  .catalog-entry { grid-template-columns: 36px 1fr; gap: 12px; }
+  .catalog-icon { width: 36px; height: 36px; }
+}
 
 .catalog-eyebrow {
   font-family: var(--font-mono);
@@ -326,6 +381,30 @@ main { padding: 48px 0 72px; }
 
 article.post {
   max-width: var(--measure);
+}
+
+.post-banner {
+  height: 176px;
+  border-radius: var(--radius);
+  background:
+    radial-gradient(circle, color-mix(in srgb, var(--brass) 45%, transparent) 1.5px, transparent 1.5px) 0 0 / 20px 20px,
+    linear-gradient(135deg, var(--court) 0%, var(--court-strong) 100%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 24px;
+}
+
+.post-banner-icon {
+  width: 112px;
+  height: 112px;
+  border-radius: 50%;
+  background: color-mix(in srgb, var(--paper) 14%, transparent);
+  border: 1px solid color-mix(in srgb, var(--paper) 30%, transparent);
+  color: var(--paper);
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .post-eyebrow {
@@ -389,37 +468,47 @@ article.post {
 }
 
 /* Product pick callouts: paragraphs that open with a bold linked product name
-   read as a "pick" card, not an inline ad link. */
+   read as a "pick" card with an unmistakable buy button, not an inline ad link. */
 .post-body p:has(> strong:first-child > a) {
   border: 1px solid var(--line-strong);
   border-radius: var(--radius);
   background: var(--paper-raised);
-  padding: 16px 18px;
+  padding: 18px 20px 20px;
   box-shadow: var(--shadow);
-  margin-bottom: 16px;
+  margin-bottom: 18px;
 }
 
 .post-body p:has(> strong:first-child > a) > strong:first-child {
   display: block;
   font-family: var(--font-display);
-  font-size: 1.08rem;
+  font-size: 1.12rem;
   font-weight: 600;
-  margin-bottom: 4px;
+  margin-bottom: 10px;
 }
 
 .post-body p:has(> strong:first-child > a) > strong:first-child > a {
-  color: var(--court);
-  border-bottom: 1px solid color-mix(in srgb, var(--court) 40%, transparent);
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  color: var(--paper);
+  background: var(--court);
+  border: none;
+  border-radius: 999px;
+  padding: 9px 18px;
+  line-height: 1.2;
 }
 
-:root[data-theme="dark"] .post-body p:has(> strong:first-child > a) > strong:first-child > a {
-  color: var(--court-strong);
+.post-body p:has(> strong:first-child > a) > strong:first-child > a:hover {
+  background: var(--brass-strong);
 }
 
-@media (prefers-color-scheme: dark) {
-  .post-body p:has(> strong:first-child > a) > strong:first-child > a {
-    color: var(--court-strong);
-  }
+.post-body p:has(> strong:first-child > a) > strong:first-child > a::after {
+  content: "View deal \2197";
+  font-family: var(--font-mono);
+  font-size: 0.66rem;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  opacity: 0.85;
 }
 
 .post-body p:has(> strong:first-child > a) code,
@@ -488,4 +577,6 @@ footer.site-footer .wrap {
   .masthead .wrap { flex-direction: column; align-items: flex-start; gap: 12px; }
   nav.primary { gap: 14px; }
   .post h1 { font-size: 1.7rem; }
+  .post-banner { height: 128px; }
+  .post-banner-icon { width: 84px; height: 84px; }
 }
