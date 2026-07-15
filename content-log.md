@@ -21,3 +21,4 @@ Running index of every subtopic/keyword already covered, so future runs don't re
 | 2026-07-14 | Home & Kitchen / Blenders | Best personal blenders for smoothies under $100 (motor wattage, jar design, cordless vs corded + picks) | _posts/2026-07-14-best-personal-blenders-for-smoothies-under-100.md |
 | 2026-07-14 | Outdoor & Recreation / Headlamps | Best headlamps for camping and backpacking (lumens, beam type, battery type, red-light mode + picks) | _posts/2026-07-14-best-headlamps-for-camping-and-backpacking.md |
 | 2026-07-14 | Sports / Running | Best GPS running watches for beginner runners (GPS accuracy, battery life, screen type, ease of use + picks) | _posts/2026-07-14-best-gps-running-watches-for-beginners.md |
+| 2026-07-15 | Outdoor & Recreation / Hiking Boots | Best hiking boots for beginners (low/mid/high cut, waterproofing trade-offs, break-in period, fit + budget-to-premium picks) | _posts/2026-07-15-best-hiking-boots-for-beginners.md |

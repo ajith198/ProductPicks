@@ -21,7 +21,7 @@ These two fields drive the Category / Type / Year filters in the search bar on t
 |---|---|
 | Sports | Pickleball, Soccer, Tennis, Cycling, Running |
 | Home & Kitchen | Coffee Makers, Electric Kettles, Blenders |
-| Outdoor & Recreation | Camping Tents, Sleeping Bags, Headlamps |
+| Outdoor & Recreation | Camping Tents, Sleeping Bags, Headlamps, Hiking Boots |
 
 New subcategories can be added freely within an existing category. New top-level categories should only be added when there's a genuine cluster of buyer-intent content planned for it (not a one-off post) — keep the category list short enough that the dropdown filter stays useful.
 
@@ -36,7 +36,7 @@ Before writing a new subcategory, do the same lightweight analysis `niche.md` di
 
 ## Daily output target
 
-**At least 5 new posts per day**, spread across categories/subcategories rather than piling onto one — this builds breadth in the search filters and avoids exhausting any single subcategory's long-tail keywords too quickly. Always check `content-log.md` first to avoid repeating a subtopic already covered.
+Each day's actual output is governed by that day's automation task instructions, not by this file — the task has specified one new post per day in recent runs. Spread subtopics across categories/subcategories rather than piling onto one, and always check `content-log.md` first to avoid repeating a subtopic already covered.
 
 ## Format conventions (unchanged from the original niche)
 
