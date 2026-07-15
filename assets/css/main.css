@@ -361,8 +361,11 @@ main { padding: 48px 0 72px; }
 .catalog-title a {
   color: var(--ink);
   border: none;
+  text-decoration: underline;
+  text-decoration-color: color-mix(in srgb, var(--ink) 22%, transparent);
+  text-underline-offset: 3px;
 }
-.catalog-title a:hover { color: var(--brass-strong); }
+.catalog-title a:hover { color: var(--brass-strong); text-decoration-color: var(--brass-strong); }
 
 .catalog-dek {
   color: var(--ink-soft);
