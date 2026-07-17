@@ -1,6 +1,6 @@
 # Categories & expansion strategy
 
-**Status: multi-category, as of 2026-07-12. Updated 2026-07-16.** ProductPicks started as a pickleball-only site (see `niche.md` for that original research). This file governs the site now that it has expanded into multiple product verticals, and is the doc future automated/daily runs should consult when choosing what to write next.
+**Status: multi-category, as of 2026-07-12. Updated 2026-07-17.** ProductPicks started as a pickleball-only site (see `niche.md` for that original research). This file governs the site now that it has expanded into multiple product verticals, and is the doc future automated/daily runs should consult when choosing what to write next.
 
 ## Front matter taxonomy
 
@@ -21,7 +21,7 @@ These two fields drive the Category / Type / Year filters in the search bar on t
 |---|---|
 | Sports | Pickleball, Soccer, Tennis, Cycling, Running |
 | Home & Kitchen | Coffee Makers, Electric Kettles, Blenders, Air Fryers |
-| Outdoor & Recreation | Camping Tents, Sleeping Bags, Headlamps, Hiking Boots |
+| Outdoor & Recreation | Camping Tents, Sleeping Bags, Headlamps, Hiking Boots, Camp Stoves |
 
 New subcategories can be added freely within an existing category. New top-level categories should only be added when there's a genuine cluster of buyer-intent content planned for it (not a one-off post) — keep the category list short enough that the dropdown filter stays useful.
 
