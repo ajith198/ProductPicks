@@ -2,4 +2,4 @@
 
 See [today.md](today.md) for the full daily summary.
 
-Latest post: **[Best Rice Cookers for Small Kitchens and Apartments in 2026](_posts/2026-07-22-best-rice-cookers-for-small-kitchens.md)** (2026-07-22)
+Latest post: **[Best Stand Mixers for Home Bakers in 2026](_posts/2026-07-23-best-stand-mixers-for-home-bakers.md)** (2026-07-23)
