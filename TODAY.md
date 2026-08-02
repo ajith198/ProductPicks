@@ -2,4 +2,4 @@
 
 See [today.md](today.md) for the full daily summary.
 
-Latest post: **[Best Electric Pressure Cookers for Small Households in 2026](_posts/2026-08-01-best-electric-pressure-cookers-for-small-households.md)** (2026-08-01)
+Latest post: **[Best Camping Chairs for Car Camping in 2026](_posts/2026-08-02-best-camping-chairs-for-car-camping.md)** (2026-08-02)
