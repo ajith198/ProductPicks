@@ -1,6 +1,6 @@
 # Categories & expansion strategy
 
-**Status: multi-category, as of 2026-07-12. Updated 2026-08-03.** ProductPicks started as a pickleball-only site (see `niche.md` for that original research). This file governs the site now that it has expanded into multiple product verticals, and is the doc future automated/daily runs should consult when choosing what to write next.
+**Status: multi-category, as of 2026-07-12. Updated 2026-08-05.** ProductPicks started as a pickleball-only site (see `niche.md` for that original research). This file governs the site now that it has expanded into multiple product verticals, and is the doc future automated/daily runs should consult when choosing what to write next.
 
 ## Front matter taxonomy
 
@@ -19,7 +19,7 @@ These two fields drive the Category / Type / Year filters in the search bar on t
 
 | Category | Subcategories covered so far |
 |---|---|
-| Sports | Pickleball, Soccer, Tennis, Cycling, Running, Yoga, Golf, Basketball, Badminton |
+| Sports | Pickleball, Soccer, Tennis, Cycling, Running, Yoga, Golf, Basketball, Badminton, Swimming |
 | Home & Kitchen | Coffee Makers, Electric Kettles, Blenders, Air Fryers, Toaster Ovens, Rice Cookers, Stand Mixers, Robot Vacuums, Espresso Machines, Pressure Cookers |
 | Outdoor & Recreation | Camping Tents, Sleeping Bags, Headlamps, Hiking Boots, Camp Stoves, Water Filters, Trekking Poles, Coolers, Backpacking Backpacks, Camp Chairs, Camping Lanterns |
 

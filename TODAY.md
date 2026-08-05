@@ -2,4 +2,4 @@
 
 See [today.md](today.md) for the full daily summary.
 
-Latest post: **[Best Tennis Shoes for Beginners in 2026](_posts/2026-08-04-best-tennis-shoes-for-beginners.md)** (2026-08-04)
+Latest post: **[Best Swim Goggles for Beginner Adults in 2026](_posts/2026-08-05-best-swim-goggles-for-beginner-adults.md)** (2026-08-05)
