@@ -1,5 +1,5 @@
 # Today's update
 
-See [today.md](today.md) for the full daily summary.
+See [`today.md`](./today.md) for the full daily automation summary.
 
-Latest post: **[Best Swim Goggles for Beginner Adults in 2026](_posts/2026-08-05-best-swim-goggles-for-beginner-adults.md)** (2026-08-05)
+Latest post: **[Best Food Processors for Home Cooks in 2026](/home-kitchen/buying-guides/best-food-processors-for-home-cooks/)** — published 2026-08-06.
