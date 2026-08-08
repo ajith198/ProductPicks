@@ -1,5 +1,5 @@
 # Today's update
 
-See [`today.md`](./today.md) for the full daily automation summary.
+See [`today.md`](today.md) for the full daily log.
 
-Latest post: **[Best Kitchen Knife Sets for Home Cooks in 2026](/home-kitchen/buying-guides/best-kitchen-knife-sets-for-home-cooks/)** — published 2026-08-07.
+Latest post: **[Best Fishing Rod and Reel Combos for Beginners in 2026](_posts/2026-08-08-best-fishing-rod-reel-combos-for-beginners.md)** (2026-08-08)
