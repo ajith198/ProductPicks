@@ -1,5 +1,7 @@
-# Today's update
+# Today
 
-See [`today.md`](today.md) for the full summary.
+See [`today.md`](today.md) for the full daily update.
 
-Latest post: **[Best Beginner Kayaks for Lakes and Calm Rivers in 2026](_posts/2026-08-14-best-beginner-kayaks-for-lakes-and-calm-rivers.md)** (2026-08-14).
+**Latest post:** [Best Life Jackets (PFDs) for Kayaking and Paddleboarding in 2026](/outdoor-recreation/buying-guides/best-life-jackets-pfds-for-kayaking-and-paddleboarding/) — 2026-08-15
+
+**Total posts published:** 49
