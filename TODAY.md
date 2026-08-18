@@ -1,7 +1,5 @@
-# Today's Update
+# Today's update
 
-See [`today.md`](./today.md) for the full daily automation summary.
+See [`today.md`](./today.md) for the full daily summary.
 
-**Latest post:** [Best Enameled Cast Iron Dutch Ovens for Home Cooks in 2026](/home-kitchen/buying-guides/best-enameled-cast-iron-dutch-ovens-for-home-cooks/)
-
-**Post count:** 51
+Latest post: **[Best Golf Club Sets for Beginners in 2026](_posts/2026-08-18-best-golf-club-sets-for-beginners.md)** — 2026-08-18.
