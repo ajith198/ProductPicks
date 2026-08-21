@@ -2,4 +2,4 @@
 
 See [`today.md`](./today.md) for the full daily summary.
 
-Latest post: **[Best Coffee Grinders for Home Baristas in 2026](_posts/2026-08-20-best-coffee-grinders-for-home-baristas.md)** — 2026-08-20.
+Latest post: **[Best Volleyball Knee Pads for Beginners in 2026](_posts/2026-08-21-best-volleyball-knee-pads-for-beginners.md)** — 2026-08-21.
