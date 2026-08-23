@@ -2,4 +2,4 @@
 
 See [`today.md`](./today.md) for the full daily summary.
 
-Latest post: **[Best Hydration Packs for Hiking and Trail Running in 2026](_posts/2026-08-22-best-hydration-packs-for-hiking-and-trail-running.md)** — 2026-08-22.
+Latest post: **[Best Sleeping Pads for Backpacking Beginners in 2026](_posts/2026-08-23-best-sleeping-pads-for-backpacking-beginners.md)** — 2026-08-23.
