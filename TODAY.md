@@ -2,4 +2,4 @@
 
 See [`today.md`](./today.md) for the full daily summary.
 
-Latest post: **[Best Camping Hammocks for Backpacking in 2026](_posts/2026-08-25-best-camping-hammocks-for-backpacking.md)** — 2026-08-25.
+Latest post: **[Best Cordless Stick Vacuums for Hardwood Floors and Pet Hair in 2026](_posts/2026-08-26-best-cordless-stick-vacuums-for-hardwood-floors-and-pet-hair.md)** — 2026-08-26.
