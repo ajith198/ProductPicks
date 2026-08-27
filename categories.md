@@ -1,6 +1,6 @@
 # Categories & expansion strategy
 
-**Status: multi-category, as of 2026-07-12. Updated 2026-08-26.** ProductPicks started as a pickleball-only site (see `niche.md` for that original research). This file governs the site now that it has expanded into multiple product verticals, and is the doc future automated/daily runs should consult when choosing what to write next.
+**Status: multi-category, as of 2026-07-12. Updated 2026-08-27.** ProductPicks started as a pickleball-only site (see `niche.md` for that original research). This file governs the site now that it has expanded into multiple product verticals, and is the doc future automated/daily runs should consult when choosing what to write next.
 
 ## Front matter taxonomy
 
@@ -20,7 +20,7 @@ These two fields drive the Category / Type / Year filters in the search bar on t
 | Category | Subcategories covered so far |
 |---|---|
 | Sports | Pickleball, Soccer, Tennis, Cycling, Running, Yoga, Golf, Basketball, Badminton, Swimming, Baseball, Fitness, Volleyball |
-| Home & Kitchen | Coffee Makers, Electric Kettles, Blenders, Air Fryers, Toaster Ovens, Rice Cookers, Stand Mixers, Robot Vacuums, Espresso Machines, Pressure Cookers, Food Processors, Knife Sets, Cast Iron Skillets, Dutch Ovens, Coffee Grinders, Water Filter Pitchers, Cordless Stick Vacuums |
+| Home & Kitchen | Coffee Makers, Electric Kettles, Blenders, Air Fryers, Toaster Ovens, Rice Cookers, Stand Mixers, Robot Vacuums, Espresso Machines, Pressure Cookers, Food Processors, Knife Sets, Cast Iron Skillets, Dutch Ovens, Coffee Grinders, Water Filter Pitchers, Cordless Stick Vacuums, Vacuum Sealers |
 | Outdoor & Recreation | Camping Tents, Sleeping Bags, Headlamps, Hiking Boots, Camp Stoves, Water Filters, Trekking Poles, Coolers, Backpacking Backpacks, Camp Chairs, Camping Lanterns, Fishing, Rain Jackets, Binoculars, Paddleboards, Kayaks, Life Jackets (PFDs), Hydration Packs, Sleeping Pads, Hammocks |
 
 New subcategories can be added freely within an existing category. New top-level categories should only be added when there's a genuine cluster of buyer-intent content planned for it (not a one-off post) — keep the category list short enough that the dropdown filter stays useful.

@@ -1,5 +1,5 @@
-# Today's update
+# Latest update
 
-See [`today.md`](./today.md) for the full daily summary.
+See [`today.md`](today.md) for the full daily log.
 
-Latest post: **[Best Cordless Stick Vacuums for Hardwood Floors and Pet Hair in 2026](_posts/2026-08-26-best-cordless-stick-vacuums-for-hardwood-floors-and-pet-hair.md)** — 2026-08-26.
+Today's new post: **[Best Vacuum Sealers for Home Meal Prep and Food Storage in 2026](_posts/2026-08-27-best-vacuum-sealers-for-home-meal-prep-and-food-storage.md)**
