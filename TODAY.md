@@ -1,5 +1,5 @@
-# Today's Update
+# Latest update — 2026-09-01
 
-See [`today.md`](today.md) for the full daily log.
+New post: [Best Ping Pong Paddles for Beginners in 2026](/sports/buying-guides/best-ping-pong-paddles-for-beginners/)
 
-Latest post: **[Best Slow Cookers for Small Households in 2026](/home-kitchen/buying-guides/best-slow-cookers-for-small-households/)** — published 2026-08-31.
+See `today.md` for the full daily summary, post count, and outstanding human steps.
