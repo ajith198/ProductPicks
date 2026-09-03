@@ -1,5 +1,5 @@
-# Latest update — 2026-09-02
+# Latest update — 2026-09-03
 
-New post: [Best Meat Thermometers for Home Cooks in 2026](/home-kitchen/buying-guides/best-meat-thermometers-for-home-cooks/)
+New post: [Best Insulated Water Bottles for Everyday Use in 2026](/outdoor-recreation/buying-guides/best-insulated-water-bottles-for-everyday-use/)
 
 See `today.md` for the full daily summary, post count, and outstanding human steps.
