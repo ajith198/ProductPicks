@@ -1,5 +1,5 @@
-# Latest update — 2026-09-03
+# Latest update — 2026-09-04
 
-New post: [Best Insulated Water Bottles for Everyday Use in 2026](/outdoor-recreation/buying-guides/best-insulated-water-bottles-for-everyday-use/)
+New post: [Best Jump Ropes for Home Workouts in 2026](/fitness/buying-guides/best-jump-ropes-for-home-workouts/)
 
 See `today.md` for the full daily summary, post count, and outstanding human steps.
