@@ -1,5 +1,5 @@
-# Latest update — 2026-09-05
+# Latest update — 2026-09-06
 
-New post: [Best Indoor Electric Grills for Apartments in 2026](/home-kitchen/buying-guides/best-indoor-electric-grills-for-apartments/)
+New post: [Best French Press Coffee Makers for Home Brewing in 2026](/home-kitchen/buying-guides/best-french-press-coffee-makers-for-home-brewing/)
 
 See `today.md` for the full daily summary, post count, and outstanding human steps.
