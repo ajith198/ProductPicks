@@ -1,5 +1,5 @@
-# Latest update — 2026-09-07
+# Today's update
 
-New post: [Best Sous Vide Machines for Home Cooks in 2026](/home-kitchen/buying-guides/best-sous-vide-machines-for-home-cooks/)
+See [`today.md`](./today.md) for the full daily summary.
 
-See `today.md` for the full daily summary, post count, and outstanding human steps.
+**Latest post:** "[Best Multi-Tools for Camping and Everyday Carry in 2026](/outdoor-recreation/buying-guides/best-multi-tools-for-camping-and-everyday-carry/)" — published 2026-09-08.
