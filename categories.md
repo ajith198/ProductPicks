@@ -1,6 +1,6 @@
 # Categories & expansion strategy
 
-**Status: multi-category, as of 2026-07-12. Updated 2026-09-10.** ProductPicks started as a pickleball-only site (see `niche.md` for that original research). This file governs the site now that it has expanded into multiple product verticals, and is the doc future automated/daily runs should consult when choosing what to write next.
+**Status: multi-category, as of 2026-07-12. Updated 2026-09-11.** ProductPicks started as a pickleball-only site (see `niche.md` for that original research). This file governs the site now that it has expanded into multiple product verticals, and is the doc future automated/daily runs should consult when choosing what to write next.
 
 ## Front matter taxonomy
 
@@ -19,7 +19,7 @@ These two fields drive the Category / Type / Year filters in the search bar on t
 
 | Category | Subcategories covered so far |
 |---|---|
-| Sports | Pickleball, Soccer, Tennis, Cycling, Running, Yoga, Golf, Basketball, Badminton, Swimming, Baseball, Fitness, Volleyball, Climbing, Table Tennis, Boxing |
+| Sports | Pickleball, Soccer, Tennis, Cycling, Running, Yoga, Golf, Basketball, Badminton, Swimming, Baseball, Fitness, Volleyball, Climbing, Table Tennis, Boxing, Football |
 | Home & Kitchen | Coffee Makers, Electric Kettles, Blenders, Air Fryers, Toaster Ovens, Rice Cookers, Stand Mixers, Robot Vacuums, Espresso Machines, Pressure Cookers, Food Processors, Knife Sets, Cast Iron Skillets, Dutch Ovens, Coffee Grinders, Water Filter Pitchers, Cordless Stick Vacuums, Vacuum Sealers, Slow Cookers, Meat Thermometers, Indoor Grills, French Press, Sous Vide Machines, Immersion Blenders |
 | Outdoor & Recreation | Camping Tents, Sleeping Bags, Headlamps, Hiking Boots, Camp Stoves, Water Filters, Trekking Poles, Coolers, Backpacking Backpacks, Camp Chairs, Camping Lanterns, Fishing, Rain Jackets, Binoculars, Paddleboards, Kayaks, Life Jackets (PFDs), Hydration Packs, Sleeping Pads, Hammocks, Daypacks, Water Bottles, Multi-Tools |
 
