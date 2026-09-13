@@ -2,4 +2,4 @@
 
 See [`today.md`](today.md) for the full daily summary.
 
-**Latest post:** "[Best Waffle Makers for Belgian Waffles at Home in 2026](_posts/2026-09-12-best-waffle-makers-for-belgian-waffles-at-home.md)" — published 2026-09-12.
+**Latest post:** "[Best Bread Makers for Home Baking Beginners in 2026](_posts/2026-09-13-best-bread-makers-for-home-baking-beginners.md)" — published 2026-09-13.
