@@ -21,7 +21,7 @@ These two fields drive the Category / Type / Year filters in the search bar on t
 |---|---|
 | Sports | Pickleball, Soccer, Tennis, Cycling, Running, Yoga, Golf, Basketball, Badminton, Swimming, Baseball, Fitness, Volleyball, Climbing, Table Tennis, Boxing, Football |
 | Home & Kitchen | Coffee Makers, Electric Kettles, Blenders, Air Fryers, Toaster Ovens, Rice Cookers, Stand Mixers, Robot Vacuums, Espresso Machines, Pressure Cookers, Food Processors, Knife Sets, Cast Iron Skillets, Dutch Ovens, Coffee Grinders, Water Filter Pitchers, Cordless Stick Vacuums, Vacuum Sealers, Slow Cookers, Meat Thermometers, Indoor Grills, French Press, Sous Vide Machines, Immersion Blenders, Waffle Makers, Bread Makers, Electric Griddles |
-| Outdoor & Recreation | Camping Tents, Sleeping Bags, Headlamps, Hiking Boots, Camp Stoves, Water Filters, Trekking Poles, Coolers, Backpacking Backpacks, Camp Chairs, Camping Lanterns, Fishing, Rain Jackets, Binoculars, Paddleboards, Kayaks, Life Jackets (PFDs), Hydration Packs, Sleeping Pads, Hammocks, Daypacks, Water Bottles, Multi-Tools |
+| Outdoor & Recreation | Camping Tents, Sleeping Bags, Headlamps, Hiking Boots, Camp Stoves, Water Filters, Trekking Poles, Coolers, Backpacking Backpacks, Camp Chairs, Camping Lanterns, Fishing, Rain Jackets, Binoculars, Paddleboards, Kayaks, Life Jackets (PFDs), Hydration Packs, Sleeping Pads, Hammocks, Daypacks, Water Bottles, Multi-Tools, Camping Cots |
 
 New subcategories can be added freely within an existing category. New top-level categories should only be added when there's a genuine cluster of buyer-intent content planned for it (not a one-off post) — keep the category list short enough that the dropdown filter stays useful.
 
