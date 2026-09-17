@@ -19,7 +19,7 @@ These two fields drive the Category / Type / Year filters in the search bar on t
 
 | Category | Subcategories covered so far |
 |---|---|
-| Sports | Pickleball, Soccer, Tennis, Cycling, Running, Yoga, Golf, Basketball, Badminton, Swimming, Baseball, Fitness, Volleyball, Climbing, Table Tennis, Boxing, Football |
+| Sports | Pickleball, Soccer, Tennis, Cycling, Running, Yoga, Golf, Basketball, Badminton, Swimming, Baseball, Fitness, Volleyball, Climbing, Table Tennis, Boxing, Football, Disc Golf |
 | Home & Kitchen | Coffee Makers, Electric Kettles, Blenders, Air Fryers, Toaster Ovens, Rice Cookers, Stand Mixers, Robot Vacuums, Espresso Machines, Pressure Cookers, Food Processors, Knife Sets, Cast Iron Skillets, Dutch Ovens, Coffee Grinders, Water Filter Pitchers, Cordless Stick Vacuums, Vacuum Sealers, Slow Cookers, Meat Thermometers, Indoor Grills, French Press, Sous Vide Machines, Immersion Blenders, Waffle Makers, Bread Makers, Electric Griddles |
 | Outdoor & Recreation | Camping Tents, Sleeping Bags, Headlamps, Hiking Boots, Camp Stoves, Water Filters, Trekking Poles, Coolers, Backpacking Backpacks, Camp Chairs, Camping Lanterns, Fishing, Rain Jackets, Binoculars, Paddleboards, Kayaks, Life Jackets (PFDs), Hydration Packs, Sleeping Pads, Hammocks, Daypacks, Water Bottles, Multi-Tools, Camping Cots |
 
