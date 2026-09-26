@@ -2,4 +2,4 @@
 
 See [`today.md`](today.md) for the full daily summary.
 
-**Latest post:** "[Best Soccer Balls for Practice and Recreational Play in 2026](_posts/2026-09-23-best-soccer-balls-for-practice-and-recreational-play.md)" — published 2026-09-23.
+**Latest post:** "[Best Space Heaters for Small Rooms and Apartments in 2026](_posts/2026-09-26-best-space-heaters-for-small-rooms-and-apartments.md)" — published 2026-09-26.
