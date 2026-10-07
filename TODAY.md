@@ -2,4 +2,4 @@
 
 See [`today.md`](today.md) for the full daily summary.
 
-**Latest post:** "[Best Golf Balls for Beginners and High Handicappers](_posts/2026-10-06-best-golf-balls-for-beginners-and-high-handicappers.md)" — published 2026-10-06.
+**Latest post:** "[Best Basketballs for Indoor and Outdoor Play](_posts/2026-10-07-best-basketballs-for-indoor-and-outdoor-play.md)" — published 2026-10-07.
