@@ -1,14 +1,14 @@
-# Today — 2026-10-08
+# Today — 2026-10-09
 
 ## New post
 
-1. "[Best Exercise Bikes for Small Home Gyms](/fitness/buying-guides/best-exercise-bikes-for-small-home-gyms/)" (Sports — Fitness)
+1. "[Best Electric Blankets and Heated Throws for Winter 2026](/home-kitchen/buying-guides/best-electric-blankets-and-heated-throws-for-winter/)" (Home & Kitchen — Electric Blankets, new subcategory)
 
-Covers magnetic vs. friction resistance, why flywheel weight affects ride smoothness, upright vs. recumbent vs. folding trade-offs, weight capacity/seat adjustability, and when app connectivity (Peloton app, Zwift, JRNY) is actually worth paying for. Picks: Exerpeutic Folding Magnetic (~$130, budget/space-saving), Sunny Health & Fitness Synergy (~$250-350, quiet non-folding mid-range), YOSUDA Pro Magnetic (~$250-350, widely-reviewed no-frills default), and Schwinn IC4 (~$800-900, premium studio-style with Bluetooth HR/cadence). Appended to `content-log.md`.
+Covers the throw-vs-full-bed-blanket distinction, single vs. dual-zone control (for couples sharing a bed), why auto shut-off is a real safety feature and not just a nice-to-have, fabric/washability, and analog vs. digital controllers. Picks: Sunbeam Royal Luxe Microplush Throw (~$25-45, budget couch throw), Biddeford Comfort Knit Dual Control queen/king (~$60-95, mid-tier for couples), and Beautyrest Heated Plush Microlight Dual Control queen/king (~$90-200, premium with digital control). Timed to the approaching winter season. Appended to `content-log.md` and added "Electric Blankets" to `categories.md`.
 
 ## Post count
 
-**103** posts published in `_posts/`.
+**104** posts published in `_posts/`.
 
 ## Outstanding one-time human steps
 

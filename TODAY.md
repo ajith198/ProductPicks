@@ -2,4 +2,4 @@
 
 See [`today.md`](today.md) for the full daily summary.
 
-**Latest post:** "[Best Exercise Bikes for Small Home Gyms](_posts/2026-10-08-best-exercise-bikes-for-small-home-gyms.md)" — published 2026-10-08.
+**Latest post:** "[Best Electric Blankets and Heated Throws for Winter 2026](_posts/2026-10-09-best-electric-blankets-and-heated-throws-for-winter.md)" — published 2026-10-09.
