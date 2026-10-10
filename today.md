@@ -1,14 +1,14 @@
-# Today — 2026-10-09
+# Today — 2026-10-10
 
 ## New post
 
-1. "[Best Electric Blankets and Heated Throws for Winter 2026](/home-kitchen/buying-guides/best-electric-blankets-and-heated-throws-for-winter/)" (Home & Kitchen — Electric Blankets, new subcategory)
+1. "[Best Ski Goggles for Beginners in 2026](/skiing-snowboarding/buying-guides/best-ski-goggles-for-beginners/)" (Sports — new subcategory: Skiing & Snowboarding)
 
-Covers the throw-vs-full-bed-blanket distinction, single vs. dual-zone control (for couples sharing a bed), why auto shut-off is a real safety feature and not just a nice-to-have, fabric/washability, and analog vs. digital controllers. Picks: Sunbeam Royal Luxe Microplush Throw (~$25-45, budget couch throw), Biddeford Comfort Knit Dual Control queen/king (~$60-95, mid-tier for couples), and Beautyrest Heated Plush Microlight Dual Control queen/king (~$90-200, premium with digital control). Timed to the approaching winter season. Appended to `content-log.md` and added "Electric Blankets" to `categories.md`.
+Timed to the start of ski season. Covers VLT/lens tint (how to match a lens to flat-light vs. bright-sun conditions), spherical vs. cylindrical lens shape and why it affects field of view and fogging, OTG fit for glasses wearers, dual-layer anti-fog lenses, and magnetic lens-swap systems. Picks: OutdoorMaster OTG (~$20-45, budget/OTG), Smith Transfer/Tribute (~$58, Smith's new 2025-26 entry-level models replacing the Frontier), Goodr Snow G (~$75, two lenses included but noted fit caveat), Smith Squad ChromaPop (~$75-125 depending on outlet pricing, spherical/wide FOV), and Smith I/O MAG ChromaPop (~$270-275, premium magnetic lens swap). Appended to `content-log.md` and added "Skiing & Snowboarding" as a new subcategory in `categories.md`.
 
 ## Post count
 
-**104** posts published in `_posts/`.
+**105** posts published in `_posts/`.
 
 ## Outstanding one-time human steps
 
