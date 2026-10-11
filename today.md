@@ -1,14 +1,14 @@
-# Today — 2026-10-10
+# Today — 2026-10-11
 
 ## New post
 
-1. "[Best Ski Goggles for Beginners in 2026](/skiing-snowboarding/buying-guides/best-ski-goggles-for-beginners/)" (Sports — new subcategory: Skiing & Snowboarding)
+1. "[Best Ski and Snowboard Helmets for Beginners in 2026](/skiing-snowboarding/buying-guides/best-ski-and-snowboard-helmets-for-beginners/)" (Sports / Skiing & Snowboarding)
 
-Timed to the start of ski season. Covers VLT/lens tint (how to match a lens to flat-light vs. bright-sun conditions), spherical vs. cylindrical lens shape and why it affects field of view and fogging, OTG fit for glasses wearers, dual-layer anti-fog lenses, and magnetic lens-swap systems. Picks: OutdoorMaster OTG (~$20-45, budget/OTG), Smith Transfer/Tribute (~$58, Smith's new 2025-26 entry-level models replacing the Frontier), Goodr Snow G (~$75, two lenses included but noted fit caveat), Smith Squad ChromaPop (~$75-125 depending on outlet pricing, spherical/wide FOV), and Smith I/O MAG ChromaPop (~$270-275, premium magnetic lens swap). Appended to `content-log.md` and added "Skiing & Snowboarding" as a new subcategory in `categories.md`.
+A natural follow-up to yesterday's ski goggles post, timed to the same start-of-season window. Covers ASTM F2040/CE EN 1077 safety certification, what MIPS (rotational-impact protection) actually does and who needs it, fit/sizing basics (level fit, finger-width rule, dial adjusters), and fixed vs. adjustable venting trade-offs. Picks: OutdoorMaster Kelvin (~$50-70, budget/first-timer), Giro Ledge MIPS (~$75-125, frequently recommended default), Smith Mission MIPS (~$95-145, adjustable venting), and Bern Macon 2.0 MIPS (~$75-115, removable liner). Appended to `content-log.md`; no new subcategory needed (Skiing & Snowboarding already exists from yesterday).
 
 ## Post count
 
-**105** posts published in `_posts/`.
+**106** posts published in `_posts/`.
 
 ## Outstanding one-time human steps
 
