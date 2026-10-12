@@ -1,14 +1,14 @@
-# Today — 2026-10-11
+# Today — 2026-10-12
 
 ## New post
 
-1. "[Best Ski and Snowboard Helmets for Beginners in 2026](/skiing-snowboarding/buying-guides/best-ski-and-snowboard-helmets-for-beginners/)" (Sports / Skiing & Snowboarding)
+1. "[Best Winter Running Jackets for Cold-Weather Runners in 2026](/running/buying-guides/best-winter-running-jackets-for-cold-weather-runners/)" (Sports / Running)
 
-A natural follow-up to yesterday's ski goggles post, timed to the same start-of-season window. Covers ASTM F2040/CE EN 1077 safety certification, what MIPS (rotational-impact protection) actually does and who needs it, fit/sizing basics (level fit, finger-width rule, dial adjusters), and fixed vs. adjustable venting trade-offs. Picks: OutdoorMaster Kelvin (~$50-70, budget/first-timer), Giro Ledge MIPS (~$75-125, frequently recommended default), Smith Mission MIPS (~$95-145, adjustable venting), and Bern Macon 2.0 MIPS (~$75-115, removable liner). Appended to `content-log.md`; no new subcategory needed (Skiing & Snowboarding already exists from yesterday).
+A seasonally-timed post moving off the two-day skiing/snowboarding run to spread coverage back into an existing category (Running) with a new long-tail angle not covered before. Explains the real distinction between windproof, water-resistant, and fully waterproof running jackets, breathability/venting trade-offs, insulation level, and visibility/fit. Picks span budget to premium: Nike Therma-FIT Repel Miler (~$50-100, budget layering shell), Under Armour Storm Run (~$45-80, budget alternative), Brooks Canopy Packable (~$80-130, reviewer-recommended everyday default), Nike Therma-FIT ADV Repel Aeroloft (~$250-275, insulated for hard cold), and Patagonia Storm Racer (~$300-315, fully waterproof premium). Appended to `content-log.md`; no new subcategory needed.
 
 ## Post count
 
-**106** posts published in `_posts/`.
+**107** posts published in `_posts/`.
 
 ## Outstanding one-time human steps
 
