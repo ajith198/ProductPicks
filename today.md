@@ -1,14 +1,14 @@
-# Today — 2026-10-12
+# Today — 2026-10-13
 
 ## New post
 
-1. "[Best Winter Running Jackets for Cold-Weather Runners in 2026](/running/buying-guides/best-winter-running-jackets-for-cold-weather-runners/)" (Sports / Running)
+1. "[Best Winter Gloves for Cold Weather 2026](/outdoor-recreation/buying-guides/best-winter-gloves-for-cold-weather/)" (Outdoor & Recreation / Winter Gloves — new subcategory)
 
-A seasonally-timed post moving off the two-day skiing/snowboarding run to spread coverage back into an existing category (Running) with a new long-tail angle not covered before. Explains the real distinction between windproof, water-resistant, and fully waterproof running jackets, breathability/venting trade-offs, insulation level, and visibility/fit. Picks span budget to premium: Nike Therma-FIT Repel Miler (~$50-100, budget layering shell), Under Armour Storm Run (~$45-80, budget alternative), Brooks Canopy Packable (~$80-130, reviewer-recommended everyday default), Nike Therma-FIT ADV Repel Aeroloft (~$250-275, insulated for hard cold), and Patagonia Storm Racer (~$300-315, fully waterproof premium). Appended to `content-log.md`; no new subcategory needed.
+Continues the current winter-gear run (ski goggles, ski/snowboard helmets, winter running jackets, electric blankets) with a glove-specific buying guide not previously covered. Explains insulation weight, waterproofing (membrane vs. DWR vs. none), touchscreen fingertip coverage, the dexterity-vs-warmth trade-off, glove-vs-mitten, and removable liner systems. Picks span budget to premium by use case: TRENDOUX Winter Knit (~$15-20, budget everyday/touchscreen), GliderGloves (~$15-25, thin backup pair), The North Face Etip (~$45-55, warmer daily-driver touchscreen glove), Carhartt W.P. Waterproof Insulated (~$20-45, shoveling/wet-snow work glove), and Outdoor Research Alti II GORE-TEX Mitts (~$200-300 retail, discounted listings lower, extreme-cold/mountaineering). Appended to `content-log.md`; added "Winter Gloves" as a new Outdoor & Recreation subcategory in `categories.md`.
 
 ## Post count
 
-**107** posts published in `_posts/`.
+**108** posts published in `_posts/`.
 
 ## Outstanding one-time human steps
 
