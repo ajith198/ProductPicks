@@ -1,14 +1,14 @@
-# Today — 2026-10-14
+# Today — 2026-10-15
 
 ## New post
 
-1. "[Best Winter Snow Boots for Cold Weather 2026](/outdoor-recreation/buying-guides/best-winter-snow-boots-for-cold-weather/)" (Outdoor & Recreation / Winter Boots — new subcategory)
+1. "[Best Thermal Base Layers for Cold Weather 2026](/outdoor-recreation/buying-guides/best-thermal-base-layers-for-cold-weather/)" (Outdoor & Recreation / Base Layers — new subcategory)
 
-Continues the current winter-gear run (ski goggles, ski/snowboard helmets, winter running jackets, winter gloves) with a boot-specific buying guide not previously covered (hiking boots were covered separately back in July, but not insulated/waterproof snow boots). Explains insulation gram ratings (200g/400g/600g+), waterproofing vs. DWR, ice-traction outsoles (e.g. Vibram Arctic Grip), shaft height/closure, removable liners, and sizing. Picks span budget to premium: NORTIV 8 Insulated Winter Snow Boots (~$40-55, budget everyday), Columbia Bugaboot Plus IV Omni-Heat (~$100-130, mid-tier all-purpose), Merrell Thermo Overlook 2 Tall (~$130-160, ice-traction/trail-capable), Sorel Caribou (~$150-170 list, often discounted, removable felt liner), and The North Face Chilkat (~$100-140, extreme-cold rated).
+Continues the current winter-gear run (ski goggles, ski/snowboard helmets, winter running jackets, winter gloves, winter snow boots) with a base-layer buying guide not previously covered. Explains merino wool vs. synthetic trade-offs (odor resistance and warmth-when-damp vs. durability and dry time), lightweight/midweight/heavyweight classes, fit, moisture management, and seam construction. Picks span budget to premium: Carhartt Base Force Midweight Crew (~$35-40, budget synthetic), Under Armour ColdGear Armour Fitted Crew (~$35-45, athletic synthetic), Meriwool Merino 250 Long Sleeve (~$50-60, value merino), Patagonia Capilene Midweight Crew (~$80-90, technical synthetic for high-output activity), and Smartwool Classic Thermal Merino Crew (~$100-125, premium heavyweight merino).
 
 ## Post count
 
-**109** posts published in `_posts/`.
+**110** posts published in `_posts/`.
 
 ## Outstanding one-time human steps
 
