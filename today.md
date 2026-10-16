@@ -1,14 +1,14 @@
-# Today — 2026-10-15
+# Today — 2026-10-16
 
 ## New post
 
-1. "[Best Thermal Base Layers for Cold Weather 2026](/outdoor-recreation/buying-guides/best-thermal-base-layers-for-cold-weather/)" (Outdoor & Recreation / Base Layers — new subcategory)
+1. "[Best Milk Frothers for Lattes and Cappuccinos at Home in 2026](/home-kitchen/buying-guides/best-milk-frothers-for-lattes-and-cappuccinos-at-home/)" (Home & Kitchen / Milk Frothers — new subcategory)
 
-Continues the current winter-gear run (ski goggles, ski/snowboard helmets, winter running jackets, winter gloves, winter snow boots) with a base-layer buying guide not previously covered. Explains merino wool vs. synthetic trade-offs (odor resistance and warmth-when-damp vs. durability and dry time), lightweight/midweight/heavyweight classes, fit, moisture management, and seam construction. Picks span budget to premium: Carhartt Base Force Midweight Crew (~$35-40, budget synthetic), Under Armour ColdGear Armour Fitted Crew (~$35-45, athletic synthetic), Meriwool Merino 250 Long Sleeve (~$50-60, value merino), Patagonia Capilene Midweight Crew (~$80-90, technical synthetic for high-output activity), and Smartwool Classic Thermal Merino Crew (~$100-125, premium heavyweight merino).
+Switches off the recent six-post winter-gear run (ski goggles, helmets, running jackets, gloves, boots, base layers) to spread coverage back into Home & Kitchen. Covers the three frother mechanisms — handheld electric, manual pump, and automatic countertop — plus froth texture/milk type and cleanup considerations. Picks span budget to premium: Zulay Original Handheld (~$12-18, battery-powered), Bodum Latteo (~$17-35, manual pump, no batteries), Zulay Rechargeable USB-C (~$15-25, handheld), Nespresso Aeroccino 4 (~$100-130, automatic heat + froth), and Breville Milk Café BMF600XL (~$150-165, premium induction-heated automatic).
 
 ## Post count
 
-**110** posts published in `_posts/`.
+**111** posts published in `_posts/`.
 
 ## Outstanding one-time human steps
 
