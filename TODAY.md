@@ -2,4 +2,4 @@
 
 See [`today.md`](today.md) for the full daily summary.
 
-**Latest post:** "[Best Milk Frothers for Lattes and Cappuccinos at Home in 2026](_posts/2026-10-16-best-milk-frothers-for-lattes-and-cappuccinos-at-home.md)" — published 2026-10-16.
+**Latest post:** "[Best Tennis Balls for Practice and Recreational Play in 2026](_posts/2026-10-17-best-tennis-balls-for-practice-and-recreational-play.md)" — published 2026-10-17.
