@@ -2,4 +2,4 @@
 
 See [`today.md`](today.md) for the full daily summary.
 
-**Latest post:** "[Best Tennis Balls for Practice and Recreational Play in 2026](_posts/2026-10-17-best-tennis-balls-for-practice-and-recreational-play.md)" — published 2026-10-17.
+**Latest post:** "[Best Ice Cleats and Traction Devices for Winter Walking and Running 2026](_posts/2026-10-18-best-ice-cleats-for-winter-walking-and-running.md)" — published 2026-10-18.

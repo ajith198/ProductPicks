@@ -1,14 +1,14 @@
-# Today — 2026-10-17
+# Today — 2026-10-18
 
 ## New post
 
-1. "[Best Tennis Balls for Practice and Recreational Play in 2026](/tennis/buying-guides/best-tennis-balls-for-practice-and-recreational-play/)" (Sports / Tennis)
+1. "[Best Ice Cleats and Traction Devices for Winter Walking and Running 2026](/outdoor-recreation/buying-guides/best-ice-cleats-for-winter-walking-and-running/)" (Outdoor & Recreation / Ice Traction Devices — new subcategory)
 
-Switches back to Sports after yesterday's Home & Kitchen post. Covers the two specs that matter most when buying tennis balls: regular vs. extra duty felt (tied to court surface — hard court vs. clay/indoor — not skill level), and pressurized vs. pressureless (match bounce vs. longevity for practice/ball-machine use), plus a note on high-altitude balls. Picks span Penn Championship Extra Duty (~$4-5/can, the recreational default), Wilson Championship Extra Duty, Wilson US Open Extra Duty (a step up in consistency), Dunlop ATP Championship Extra Duty, and a pressureless bulk bag for ball machines/practice.
+Continues the winter-gear run (gloves, boots, base layers, ski goggles/helmets) with a new subcategory: slip-on ice cleats and traction devices. Covers the coil-vs-spike construction split, spike count/material, matching the product to activity (sidewalk walking vs. road/trail running vs. hiking), harness fit/sizing, and pavement-vs-ice-only use. Picks span Yaktrax Walk (~$30) and Yaktrax Pro (~$39) for sidewalk/commuting use, Yaktrax Run (~$50) and Kahtoola NANOspikes (~$55) for running, Kahtoola EXOspikes (~$65) for trail running, and Kahtoola MICROspikes (~$75) for icy-trail hiking.
 
 ## Post count
 
-**112** posts published in `_posts/`.
+**113** posts published in `_posts/`.
 
 ## Outstanding one-time human steps
 
