@@ -1,14 +1,14 @@
-# Today — 2026-10-18
+# Today — 2026-10-19
 
 ## New post
 
-1. "[Best Ice Cleats and Traction Devices for Winter Walking and Running 2026](/outdoor-recreation/buying-guides/best-ice-cleats-for-winter-walking-and-running/)" (Outdoor & Recreation / Ice Traction Devices — new subcategory)
+1. "[Best Ice Skates for Beginners 2026](/sports/buying-guides/best-ice-skates-for-beginners/)" (Sports / Ice Skating — new subcategory)
 
-Continues the winter-gear run (gloves, boots, base layers, ski goggles/helmets) with a new subcategory: slip-on ice cleats and traction devices. Covers the coil-vs-spike construction split, spike count/material, matching the product to activity (sidewalk walking vs. road/trail running vs. hiking), harness fit/sizing, and pavement-vs-ice-only use. Picks span Yaktrax Walk (~$30) and Yaktrax Pro (~$39) for sidewalk/commuting use, Yaktrax Run (~$50) and Kahtoola NANOspikes (~$55) for running, Kahtoola EXOspikes (~$65) for trail running, and Kahtoola MICROspikes (~$75) for icy-trail hiking.
+A new Sports subcategory covering recreational, figure, and hockey skates for first-time skaters as rinks open for the season. Walks through boot stiffness/ankle support, blade material, and sizing, then compares budget picks (American Athletic Tricot Lined, Lake Placid Cascade Women's) against step-up options (Jackson Classic 200, Riedell Soar).
 
 ## Post count
 
-**113** posts published in `_posts/`.
+**114** posts published in `_posts/`.
 
 ## Outstanding one-time human steps
 
