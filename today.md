@@ -1,14 +1,14 @@
-# Today — 2026-10-19
+# Today — 2026-10-20
 
 ## New post
 
-1. "[Best Ice Skates for Beginners 2026](/sports/buying-guides/best-ice-skates-for-beginners/)" (Sports / Ice Skating — new subcategory)
+1. "[Best Snowshoes for Beginners 2026](/outdoor-recreation/buying-guides/best-snowshoes-for-beginners/)" (Outdoor & Recreation / Snowshoes — new subcategory)
 
-A new Sports subcategory covering recreational, figure, and hockey skates for first-time skaters as rinks open for the season. Walks through boot stiffness/ankle support, blade material, and sizing, then compares budget picks (American Athletic Tricot Lined, Lake Placid Cascade Women's) against step-up options (Jackson Classic 200, Riedell Soar).
+A new Outdoor & Recreation subcategory covering beginner snowshoes as winter trail conditions set in. Walks through sizing by total weight and snow type, ratchet vs. strap bindings, traction/crampons, and heel lifters, then compares budget picks (Yukon Charlie's Advanced Float, Retrospec Drifter) against step-up kits with poles (Yukon Charlie's Sherpa, MSR Evo Trail, Tubbs Xplore).
 
 ## Post count
 
-**114** posts published in `_posts/`.
+**115** posts published in `_posts/`.
 
 ## Outstanding one-time human steps
 
