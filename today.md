@@ -1,14 +1,14 @@
-# Today — 2026-10-21
+# Today — 2026-10-22
 
 ## New post
 
-1. "[Best Ski Pants and Snow Pants for Beginners 2026](/skiing-snowboarding/buying-guides/best-ski-pants-and-snow-pants-for-beginners/)" (Sports / Skiing & Snowboarding)
+1. "[Best Badminton Shuttlecocks for Beginners and Club Play](/badminton/buying-guides/best-badminton-shuttlecocks-for-beginners-and-club-play/)" (Sports / Badminton)
 
-Continues the current winter-gear run (goggles, helmets, gloves, boots, base layers already covered). Walks through insulated vs. shell construction, waterproof/breathability ratings, boot gaiters and articulated knees, and bibs vs. regular-waist pants, then compares budget picks (Arctix Essential, Arctix Insulated Cargo) against a mid-tier waterproof-breathable option (Columbia Bugaboo IV/II) and a kids' pick (Columbia Youth Bugaboo II).
+Breaks from the long winter-gear run (goggles, helmets, jackets, gloves, boots, base layers, ice cleats, ice skates, snowshoes, ski pants) to revisit Badminton, which only had one prior post (racquets, from July). Covers feather vs. nylon shuttlecocks, speed ratings by altitude/temperature, cork/base quality, and cost-per-hour-of-play, with picks spanning budget nylon (Yonex Mavis 350, generic 12-packs) up through club-level feather (Victor Master series, Yonex Aerosensa 30). Cross-links back to the earlier badminton racquet guide.
 
 ## Post count
 
-**116** posts published in `_posts/`.
+**117** posts published in `_posts/`.
 
 ## Outstanding one-time human steps
 
