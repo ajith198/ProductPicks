@@ -1,14 +1,14 @@
-# Today — 2026-10-22
+# Today — 2026-10-23
 
 ## New post
 
-1. "[Best Badminton Shuttlecocks for Beginners and Club Play](/badminton/buying-guides/best-badminton-shuttlecocks-for-beginners-and-club-play/)" (Sports / Badminton)
+1. "[Best Kettlebells for Home Workouts](/fitness/buying-guides/best-kettlebells-for-home-workouts/)" (Sports / Fitness)
 
-Breaks from the long winter-gear run (goggles, helmets, jackets, gloves, boots, base layers, ice cleats, ice skates, snowshoes, ski pants) to revisit Badminton, which only had one prior post (racquets, from July). Covers feather vs. nylon shuttlecocks, speed ratings by altitude/temperature, cork/base quality, and cost-per-hour-of-play, with picks spanning budget nylon (Yonex Mavis 350, generic 12-packs) up through club-level feather (Victor Master series, Yonex Aerosensa 30). Cross-links back to the earlier badminton racquet guide.
+Fills a gap in the Fitness subcategory — dumbbells, resistance bands, jump ropes, rowing machines, treadmills, and exercise bikes were already covered, but kettlebells hadn't been. Covers cast iron vs. adjustable dial-style kettlebells, handle diameter/texture, flat base stability, weight sizing for beginners, and coating/floor protection, with picks spanning budget fixed-weight bells (CAP Barbell, Yes4All) up through adjustable units (Bowflex SelectTech 840, REP Fitness Adjustable Kettlebell).
 
 ## Post count
 
-**117** posts published in `_posts/`.
+**118** posts published in `_posts/`.
 
 ## Outstanding one-time human steps
 
