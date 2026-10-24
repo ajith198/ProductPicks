@@ -1,14 +1,14 @@
-# Today — 2026-10-23
+# Today — 2026-10-24
 
 ## New post
 
-1. "[Best Kettlebells for Home Workouts](/fitness/buying-guides/best-kettlebells-for-home-workouts/)" (Sports / Fitness)
+1. "[Best Smart Bike Trainers for Indoor Cycling](/cycling/buying-guides/best-smart-bike-trainers-for-indoor-cycling/)" (Sports / Cycling)
 
-Fills a gap in the Fitness subcategory — dumbbells, resistance bands, jump ropes, rowing machines, treadmills, and exercise bikes were already covered, but kettlebells hadn't been. Covers cast iron vs. adjustable dial-style kettlebells, handle diameter/texture, flat base stability, weight sizing for beginners, and coating/floor protection, with picks spanning budget fixed-weight bells (CAP Barbell, Yes4All) up through adjustable units (Bowflex SelectTech 840, REP Fitness Adjustable Kettlebell).
+A fresh Cycling subtopic distinct from the existing bike helmets/locks/lights/racks/beginner-bike posts — covers wheel-on vs. direct-drive smart trainers, power accuracy, app/protocol compatibility, the hidden cassette-cost trap, and noise/incline simulation, with picks spanning a budget wheel-on trainer (ThinkRider X2 Max) through a dependable mid-tier wheel-on (Saris M2) to affordable and benchmark direct-drive options (Elite Tuo, Wahoo KICKR Core).
 
 ## Post count
 
-**118** posts published in `_posts/`.
+**119** posts published in `_posts/`.
 
 ## Outstanding one-time human steps
 
