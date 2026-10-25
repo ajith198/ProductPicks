@@ -1,14 +1,14 @@
-# Today — 2026-10-24
+# Today — 2026-10-25
 
 ## New post
 
-1. "[Best Smart Bike Trainers for Indoor Cycling](/cycling/buying-guides/best-smart-bike-trainers-for-indoor-cycling/)" (Sports / Cycling)
+1. "[Best Deep Fryers for Home Use](/kitchen/buying-guides/best-deep-fryers-for-home-use/)" (Home & Kitchen / Deep Fryers — new subcategory)
 
-A fresh Cycling subtopic distinct from the existing bike helmets/locks/lights/racks/beginner-bike posts — covers wheel-on vs. direct-drive smart trainers, power accuracy, app/protocol compatibility, the hidden cassette-cost trap, and noise/incline simulation, with picks spanning a budget wheel-on trainer (ThinkRider X2 Max) through a dependable mid-tier wheel-on (Saris M2) to affordable and benchmark direct-drive options (Elite Tuo, Wahoo KICKR Core).
+A new Home & Kitchen subcategory covering electric deep fryers — oil capacity vs. food capacity, temperature control, wattage/recovery time, oil filtration & storage (the biggest cleanup-effort differentiator in the category), and dishwasher-safe cleanup, with picks spanning a no-frills budget single-serving fryer (Presto FryDaddy) through adjustable-dial mid-tier options (Amazon Basics 3.2-Qt, Presto GranPappy) to premium filtration-equipped and high-wattage units (T-fal Ultimate EZ Clean, Cuisinart CDF-200).
 
 ## Post count
 
-**119** posts published in `_posts/`.
+**120** posts published in `_posts/`.
 
 ## Outstanding one-time human steps
 
