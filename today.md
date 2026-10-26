@@ -1,14 +1,14 @@
-# Today — 2026-10-25
+# Today — 2026-10-26
 
 ## New post
 
-1. "[Best Deep Fryers for Home Use](/kitchen/buying-guides/best-deep-fryers-for-home-use/)" (Home & Kitchen / Deep Fryers — new subcategory)
+1. "[Best Ping Pong Tables for Home Use](/table-tennis/buying-guides/best-ping-pong-tables-for-home-use/)" (Sports / Table Tennis)
 
-A new Home & Kitchen subcategory covering electric deep fryers — oil capacity vs. food capacity, temperature control, wattage/recovery time, oil filtration & storage (the biggest cleanup-effort differentiator in the category), and dishwasher-safe cleanup, with picks spanning a no-frills budget single-serving fryer (Presto FryDaddy) through adjustable-dial mid-tier options (Amazon Basics 3.2-Qt, Presto GranPappy) to premium filtration-equipped and high-wattage units (T-fal Ultimate EZ Clean, Cuisinart CDF-200).
+Covers what actually matters when buying a home ping pong table — tabletop thickness and bounce quality, the indoor-vs-outdoor construction difference (and why putting an indoor table outside permanently warps it), bi-fold vs. single-player playback folding, frame/wheel stability, and ITTF/USATT approval — with picks spanning a straightforward budget option (JOOLA Inside 15) through a near-fully-preassembled mid-tier pick (STIGA Advantage), a dedicated outdoor/weatherproof option (JOOLA Nova Pro Plus), a thicker-top step-up (JOOLA Inside 25), and a premium USATT-approved table (Butterfly Active 19 Home).
 
 ## Post count
 
-**120** posts published in `_posts/`.
+**121** posts published in `_posts/`.
 
 ## Outstanding one-time human steps
 
