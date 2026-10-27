@@ -1,14 +1,14 @@
-# Today — 2026-10-26
+# Today — 2026-10-27
 
 ## New post
 
-1. "[Best Ping Pong Tables for Home Use](/table-tennis/buying-guides/best-ping-pong-tables-for-home-use/)" (Sports / Table Tennis)
+1. "[Best Pull-Up Bars for Home Workouts](/fitness/buying-guides/best-pull-up-bars-for-home-workouts/)" (Sports / Fitness)
 
-Covers what actually matters when buying a home ping pong table — tabletop thickness and bounce quality, the indoor-vs-outdoor construction difference (and why putting an indoor table outside permanently warps it), bi-fold vs. single-player playback folding, frame/wheel stability, and ITTF/USATT approval — with picks spanning a straightforward budget option (JOOLA Inside 15) through a near-fully-preassembled mid-tier pick (STIGA Advantage), a dedicated outdoor/weatherproof option (JOOLA Nova Pro Plus), a thicker-top step-up (JOOLA Inside 25), and a premium USATT-approved table (Butterfly Active 19 Home).
+Covers what actually matters when buying a pull-up bar — doorway (tension-fit) vs. wall/ceiling-mounted vs. freestanding power tower, why a printed weight capacity isn't the whole story (real-world wobble well under the rating, especially on kipping reps), door/trim fit measurements, and grip variety — with picks spanning the cheapest tension-fit entry point (Iron Gym), a higher-capacity doorway alternative (Ally Peaks), a warrantied multi-grip budget option (Perfect Fitness Multi-Gym), a permanent stud-mounted bar for weighted pull-ups (REP Fitness Wall-Mounted Multi-Grip), and a no-wall-needed freestanding option with built-in dip bars (Sportsroyals Power Tower).
 
 ## Post count
 
-**121** posts published in `_posts/`.
+**122** posts published in `_posts/`.
 
 ## Outstanding one-time human steps
 
