@@ -1,14 +1,14 @@
-# Today — 2026-10-27
+# Today — 2026-10-28
 
 ## New post
 
-1. "[Best Pull-Up Bars for Home Workouts](/fitness/buying-guides/best-pull-up-bars-for-home-workouts/)" (Sports / Fitness)
+1. "[Best Resistance Bands for Home Workouts](/fitness/buying-guides/best-resistance-bands-for-home-workouts/)" (Sports / Fitness)
 
-Covers what actually matters when buying a pull-up bar — doorway (tension-fit) vs. wall/ceiling-mounted vs. freestanding power tower, why a printed weight capacity isn't the whole story (real-world wobble well under the rating, especially on kipping reps), door/trim fit measurements, and grip variety — with picks spanning the cheapest tension-fit entry point (Iron Gym), a higher-capacity doorway alternative (Ally Peaks), a warrantied multi-grip budget option (Perfect Fitness Multi-Gym), a permanent stud-mounted bar for weighted pull-ups (REP Fitness Wall-Mounted Multi-Grip), and a no-wall-needed freestanding option with built-in dip bars (Sportsroyals Power Tower).
+Covers the three different resistance-band product types (flat latex loop bands, tube bands with handles, and fabric loop bands) and which is right for which goal, how resistance levels stack, why anti-snap tube construction matters for overhead/face-level work, and which accessories (door anchor, ankle straps) actually get used — with picks spanning an all-around stackable tube set (Whatafit), an anti-snap tube alternative (Bodylastics), a budget latex loop set (Fit Simplify), a bare-skin glute/hip fabric loop set (Serious Steel), and a standalone pull-up assist band (WODFitters).
 
 ## Post count
 
-**122** posts published in `_posts/`.
+**123** posts published in `_posts/`.
 
 ## Outstanding one-time human steps
 
