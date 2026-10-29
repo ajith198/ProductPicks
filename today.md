@@ -1,14 +1,14 @@
-# Today — 2026-10-28
+# Today — 2026-10-29
 
 ## New post
 
-1. "[Best Resistance Bands for Home Workouts](/fitness/buying-guides/best-resistance-bands-for-home-workouts/)" (Sports / Fitness)
+1. "[Best Tennis Rackets for Beginners](/tennis/buying-guides/best-tennis-rackets-for-beginners/)" (Sports / Tennis)
 
-Covers the three different resistance-band product types (flat latex loop bands, tube bands with handles, and fabric loop bands) and which is right for which goal, how resistance levels stack, why anti-snap tube construction matters for overhead/face-level work, and which accessories (door anchor, ankle straps) actually get used — with picks spanning an all-around stackable tube set (Whatafit), an anti-snap tube alternative (Bodylastics), a budget latex loop set (Fit Simplify), a bare-skin glute/hip fabric loop set (Serious Steel), and a standalone pull-up assist band (WODFitters).
+Covers how to read a beginner tennis racket spec sheet: head size and sweet spot, weight, grip size, open vs. dense string pattern, and vibration dampening — with picks spanning a budget first-timer frame (Wilson Tour Slam), a step-up recreational frame (Wilson Federer Adult Recreational), a large-head titanium beginner frame (HEAD Ti.S6) and its cheaper sibling (HEAD Ti.Conquest), and a spin-friendly option for improving beginners (Babolat Boost Aero).
 
 ## Post count
 
-**123** posts published in `_posts/`.
+**124** posts published in `_posts/`.
 
 ## Outstanding one-time human steps
 
