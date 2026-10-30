@@ -1,14 +1,14 @@
-# Today — 2026-10-29
+# Today — 2026-10-30
 
 ## New post
 
-1. "[Best Tennis Rackets for Beginners](/tennis/buying-guides/best-tennis-rackets-for-beginners/)" (Sports / Tennis)
+1. "[Best Volleyballs for Indoor and Outdoor Play](/volleyball/buying-guides/best-volleyballs-for-indoor-and-outdoor-play/)" (Sports / Volleyball)
 
-Covers how to read a beginner tennis racket spec sheet: head size and sweet spot, weight, grip size, open vs. dense string pattern, and vibration dampening — with picks spanning a budget first-timer frame (Wilson Tour Slam), a step-up recreational frame (Wilson Federer Adult Recreational), a large-head titanium beginner frame (HEAD Ti.S6) and its cheaper sibling (HEAD Ti.Conquest), and a spin-friendly option for improving beginners (Babolat Boost Aero).
+Covers how to choose between indoor and outdoor volleyballs: size/weight standard (Size 5, ~260-280g), synthetic leather vs. rubber cover by playing surface, stitched/machine-stitched vs. molded match-grade panel construction, butyl bladder air retention, and training vs. match-approved balls — with picks spanning a true FIVB match-quality indoor ball (Mikasa V200W), the official NCAA indoor ball (Molten FLISTATEC), a widely used NFHS-approved mid-tier composite ball (Tachikara SV5WS Sensi-Tec), a durable outdoor/beach pick (Wilson OPTX AVP Tour), and budget recreational outdoor balls for casual backyard play.
 
 ## Post count
 
-**124** posts published in `_posts/`.
+**125** posts published in `_posts/`.
 
 ## Outstanding one-time human steps
 
