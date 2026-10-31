@@ -1,14 +1,14 @@
-# Today — 2026-10-30
+# Today — 2026-10-31
 
 ## New post
 
-1. "[Best Volleyballs for Indoor and Outdoor Play](/volleyball/buying-guides/best-volleyballs-for-indoor-and-outdoor-play/)" (Sports / Volleyball)
+1. "[Best Snow Sleds for Kids](/outdoor-recreation/buying-guides/best-snow-sleds-for-kids/)" (Outdoor & Recreation / Snow Sleds — new subcategory)
 
-Covers how to choose between indoor and outdoor volleyballs: size/weight standard (Size 5, ~260-280g), synthetic leather vs. rubber cover by playing surface, stitched/machine-stitched vs. molded match-grade panel construction, butyl bladder air retention, and training vs. match-approved balls — with picks spanning a true FIVB match-quality indoor ball (Mikasa V200W), the official NCAA indoor ball (Molten FLISTATEC), a widely used NFHS-approved mid-tier composite ball (Tachikara SV5WS Sensi-Tec), a durable outdoor/beach pick (Wilson OPTX AVP Tour), and budget recreational outdoor balls for casual backyard play.
+Covers the three main sled shapes for kids — toboggan, saucer, and inflatable snow tube — and when each makes sense: steering/braking on steerable toboggans, rider age and weight capacity (including harnessed toddler pull sleds as a distinct product), cold-resistant plastic vs. classic wood-and-steel-runner construction, and carry weight. Picks span the Slippery Racer Downhill Xtreme and Downhill Pro steerable toboggan, the Slippery Racer Downhill Pro Saucer and a Flexible Flyer 26-inch saucer 3-pack, a Flybar Kids Husky foam toboggan, a Slippery Racer AirRaid inflatable snow tube, and a harnessed toddler pull sled.
 
 ## Post count
 
-**125** posts published in `_posts/`.
+**126** posts published in `_posts/`.
 
 ## Outstanding one-time human steps
 
