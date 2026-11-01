@@ -1,14 +1,14 @@
-# Today — 2026-10-31
+# Today — 2026-11-01
 
 ## New post
 
-1. "[Best Snow Sleds for Kids](/outdoor-recreation/buying-guides/best-snow-sleds-for-kids/)" (Outdoor & Recreation / Snow Sleds — new subcategory)
+1. "[Best Mini Fridges for Dorms and Small Spaces](/home-kitchen/buying-guides/best-mini-fridges-for-dorms-and-small-spaces/)" (Home & Kitchen / Mini Fridges — new subcategory)
 
-Covers the three main sled shapes for kids — toboggan, saucer, and inflatable snow tube — and when each makes sense: steering/braking on steerable toboggans, rider age and weight capacity (including harnessed toddler pull sleds as a distinct product), cold-resistant plastic vs. classic wood-and-steel-runner construction, and carry weight. Picks span the Slippery Racer Downhill Xtreme and Downhill Pro steerable toboggan, the Slippery Racer Downhill Pro Saucer and a Flexible Flyer 26-inch saucer 3-pack, a Flybar Kids Husky foam toboggan, a Slippery Racer AirRaid inflatable snow tube, and a harnessed toddler pull sled.
+Covers the two cooling technologies (compressor vs. thermoelectric) and why that distinction matters more than most listings let on, capacity sizing from 1.7 to 3.2 cu ft, what a true separate freezer compartment gets you over a single-door fridge with an ice-tray shelf, noise/dB ratings for sleeping-distance placement, and dorm size/wattage rules to check before buying. Picks span the Midea WHS-65LB1, Upstreman 1.7 cu ft and 3.2 cu ft (with freezer), Igloo 3.2 cu ft (with freezer), Insignia 1.7 cu ft, and a budget Antarctic Star 1.7 cu ft.
 
 ## Post count
 
-**126** posts published in `_posts/`.
+**127** posts published in `_posts/`.
 
 ## Outstanding one-time human steps
 
