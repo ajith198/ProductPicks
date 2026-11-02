@@ -1,14 +1,14 @@
-# Today — 2026-11-01
+# Today — 2026-11-02
 
 ## New post
 
-1. "[Best Mini Fridges for Dorms and Small Spaces](/home-kitchen/buying-guides/best-mini-fridges-for-dorms-and-small-spaces/)" (Home & Kitchen / Mini Fridges — new subcategory)
+1. "[Best Electric Snow Blowers for Small Driveways](/outdoor-recreation/buying-guides/best-electric-snow-blowers-for-small-driveways/)" (Outdoor & Recreation / Snow Blowers — new subcategory)
 
-Covers the two cooling technologies (compressor vs. thermoelectric) and why that distinction matters more than most listings let on, capacity sizing from 1.7 to 3.2 cu ft, what a true separate freezer compartment gets you over a single-door fridge with an ice-tray shelf, noise/dB ratings for sleeping-distance placement, and dorm size/wattage rules to check before buying. Picks span the Midea WHS-65LB1, Upstreman 1.7 cu ft and 3.2 cu ft (with freezer), Igloo 3.2 cu ft (with freezer), Insignia 1.7 cu ft, and a budget Antarctic Star 1.7 cu ft.
+Covers single-stage vs. two-stage designs and why gravel driveways or very deep snow are a poor fit for electric models, cordless vs. corded trade-offs (battery runtime vs. managing an outdoor extension cord), realistic snow-depth ratings, clearing width/intake height, the "check how many batteries are actually included" trap on cordless kits, and steel vs. plastic augers for icy plow ridges. Picks span the budget corded Snow Joe 22-inch, the two-battery Snow Joe IONMAX 48V 18-inch, a lightweight corded Greenworks 20-inch, the wider Greenworks 60V 22-inch cordless, and the premium EGO Power+ SNT2112 with its steel auger.
 
 ## Post count
 
-**127** posts published in `_posts/`.
+**128** posts published in `_posts/`.
 
 ## Outstanding one-time human steps
 

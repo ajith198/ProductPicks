@@ -2,4 +2,4 @@
 
 See [`today.md`](today.md) for the full daily summary.
 
-**Latest post:** "[Best Mini Fridges for Dorms and Small Spaces 2026](_posts/2026-11-01-best-mini-fridges-for-dorms-and-small-spaces.md)" — published 2026-11-01.
+**Latest post:** "[Best Electric Snow Blowers for Small Driveways 2026](_posts/2026-11-02-best-electric-snow-blowers-for-small-driveways.md)" — published 2026-11-02.
