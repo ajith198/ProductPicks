@@ -1,14 +1,14 @@
-# Today — 2026-11-04
+# Today — 2026-11-05
 
 ## New post
 
-1. "[Best Winter Parkas for Extreme Cold](/outdoor-recreation/buying-guides/best-winter-parkas-for-extreme-cold/)" (Outdoor & Recreation / Winter Coats & Parkas — new subcategory)
+1. "[Best Neck Gaiters and Balaclavas for Cold Weather](/outdoor-recreation/buying-guides/best-neck-gaiters-and-balaclavas-for-cold-weather/)" (Outdoor & Recreation / Neck Gaiters & Balaclavas — new subcategory)
 
-Covers down vs. synthetic insulation and fill power, shell waterproofing, why true parka length (mid-thigh+) matters more than people expect, fur-ruff hood design, and why "-30°F" style ratings are rough marketing comparisons, not guarantees. Picks span a budget Carhartt Quilted Flannel-Lined Duck Active Jacket (workwear-style, not full parka length), Columbia's Marquam Peak Fusion and step-up Landroamer II insulated parkas, and The North Face McMurdo Parka for genuinely extreme, long-exposure cold.
+Covers the difference between a neck gaiter and a full balaclava, fleece vs. merino wool vs. synthetic knit fabrics, windproofing, breathability/moisture around the mouth, and fit/coverage styles. Picks span a budget Turtle Fur fleece gaiter, an even cheaper TICONN synthetic gaiter, and merino wool balaclavas from Minus33 (mid-range) and Smartwool (premium).
 
 ## Post count
 
-**130** posts published in `_posts/`.
+**131** posts published in `_posts/`.
 
 ## Outstanding one-time human steps
 
