@@ -1,14 +1,14 @@
-# Today — 2026-11-05
+# Today — 2026-11-06
 
 ## New post
 
-1. "[Best Neck Gaiters and Balaclavas for Cold Weather](/outdoor-recreation/buying-guides/best-neck-gaiters-and-balaclavas-for-cold-weather/)" (Outdoor & Recreation / Neck Gaiters & Balaclavas — new subcategory)
+1. "[Best Hand Mixers for Home Baking](/home-kitchen/buying-guides/best-hand-mixers-for-home-baking/)" (Home & Kitchen / Hand Mixers — new subcategory)
 
-Covers the difference between a neck gaiter and a full balaclava, fleece vs. merino wool vs. synthetic knit fabrics, windproofing, breathability/moisture around the mouth, and fit/coverage styles. Picks span a budget Turtle Fur fleece gaiter, an even cheaper TICONN synthetic gaiter, and merino wool balaclavas from Minus33 (mid-range) and Smartwool (premium).
+Covers speed count and low-speed control vs. peak wattage, beater/whisk attachment quality, scraper-beater and soft-start features, and corded vs. cordless trade-offs. Picks span a budget Hamilton Beach 6-speed, a mid-range Cuisinart Power Advantage Plus 9-speed, KitchenAid's digital and cordless models, and a premium Breville Handy Mix Scraper.
 
 ## Post count
 
-**131** posts published in `_posts/`.
+**132** posts published in `_posts/`.
 
 ## Outstanding one-time human steps
 

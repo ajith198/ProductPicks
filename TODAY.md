@@ -2,4 +2,4 @@
 
 See [`today.md`](today.md) for the full daily summary.
 
-**Latest post:** "[Best Neck Gaiters and Balaclavas for Cold Weather](_posts/2026-11-05-best-neck-gaiters-and-balaclavas-for-cold-weather.md)" — published 2026-11-05.
+**Latest post:** "[Best Hand Mixers for Home Baking](_posts/2026-11-06-best-hand-mixers-for-home-baking.md)" — published 2026-11-06.
