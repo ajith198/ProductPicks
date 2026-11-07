@@ -1,14 +1,14 @@
-# Today — 2026-11-06
+# Today — 2026-11-07
 
 ## New post
 
-1. "[Best Hand Mixers for Home Baking](/home-kitchen/buying-guides/best-hand-mixers-for-home-baking/)" (Home & Kitchen / Hand Mixers — new subcategory)
+1. "[Best Sparkling Water Makers for Home](/home-kitchen/buying-guides/best-sparkling-water-makers-for-home/)" (Home & Kitchen / Soda Makers — new subcategory)
 
-Covers speed count and low-speed control vs. peak wattage, beater/whisk attachment quality, scraper-beater and soft-start features, and corded vs. cordless trade-offs. Picks span a budget Hamilton Beach 6-speed, a mid-range Cuisinart Power Advantage Plus 9-speed, KitchenAid's digital and cordless models, and a premium Breville Handy Mix Scraper.
+Covers electric vs. manual carbonation, CO2 cylinder format (SodaStream's proprietary exchange network vs. Drinkmate/Aarke's refillable threaded cylinders), bottle material/dishwasher-safety, and water-only vs. "carbonate anything" machines. Picks span the budget SodaStream Terra, the retro-styled SodaStream ART, the versatile Drinkmate OmniFizz, the premium design-forward Breville InFizz Fusion, and the all-metal Aarke Carbonator 3.
 
 ## Post count
 
-**132** posts published in `_posts/`.
+**133** posts published in `_posts/`.
 
 ## Outstanding one-time human steps
 
