@@ -1,14 +1,14 @@
-# Today — 2026-11-07
+# Today — 2026-11-08
 
 ## New post
 
-1. "[Best Sparkling Water Makers for Home](/home-kitchen/buying-guides/best-sparkling-water-makers-for-home/)" (Home & Kitchen / Soda Makers — new subcategory)
+1. "[Best Hand Warmers for Cold Weather](/outdoor-recreation/buying-guides/best-hand-warmers-for-cold-weather/)" (Outdoor & Recreation / Hand Warmers — new subcategory)
 
-Covers electric vs. manual carbonation, CO2 cylinder format (SodaStream's proprietary exchange network vs. Drinkmate/Aarke's refillable threaded cylinders), bottle material/dishwasher-safety, and water-only vs. "carbonate anything" machines. Picks span the budget SodaStream Terra, the retro-styled SodaStream ART, the versatile Drinkmate OmniFizz, the premium design-forward Breville InFizz Fusion, and the all-metal Aarke Carbonator 3.
+Covers disposable air-activated vs. reusable gel/snap vs. rechargeable electric hand warmers, real heat output and runtime differences, the boil-to-recharge caveat for gel warmers, and per-use cost. Picks span the budget HotHands, the hotter-running Ignik Performance Warmers, the reusable HotSnapZ, the feature-rich OCOOPA UT3 Pro rechargeable warmer/power bank, and a budget rechargeable alternative.
 
 ## Post count
 
-**133** posts published in `_posts/`.
+**134** posts published in `_posts/`.
 
 ## Outstanding one-time human steps
 
