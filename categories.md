@@ -1,6 +1,6 @@
 # Categories & expansion strategy
 
-**Status: multi-category, as of 2026-07-12. Updated 2026-11-08.** ProductPicks started as a pickleball-only site (see `niche.md` for that original research). This file governs the site now that it has expanded into multiple product verticals, and is the doc future automated/daily runs should consult when choosing what to write next.
+**Status: multi-category, as of 2026-07-12. Updated 2026-11-09.** ProductPicks started as a pickleball-only site (see `niche.md` for that original research). This file governs the site now that it has expanded into multiple product verticals, and is the doc future automated/daily runs should consult when choosing what to write next.
 
 ## Front matter taxonomy
 

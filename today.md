@@ -1,14 +1,14 @@
-# Today — 2026-11-08
+# Today — 2026-11-09
 
 ## New post
 
-1. "[Best Hand Warmers for Cold Weather](/outdoor-recreation/buying-guides/best-hand-warmers-for-cold-weather/)" (Outdoor & Recreation / Hand Warmers — new subcategory)
+1. "[Best Golf Bags for Beginners](/sports/buying-guides/best-golf-bags-for-beginners/)" (Sports / Golf)
 
-Covers disposable air-activated vs. reusable gel/snap vs. rechargeable electric hand warmers, real heat output and runtime differences, the boil-to-recharge caveat for gel warmers, and per-use cost. Picks span the budget HotHands, the hotter-running Ignik Performance Warmers, the reusable HotSnapZ, the feature-rich OCOOPA UT3 Pro rechargeable warmer/power bank, and a budget rechargeable alternative.
+Covers the stand-bag-vs-cart-bag decision based on walking vs. riding, why weight matters for stand bags but not cart bags, 14-way vs. simpler divider systems, and pocket count/strap comfort. Picks span the ultra-budget Champkey carry bag, the Orlimar Pitch & Putt lightweight stand bag, the TaylorMade Stand Bag 5.0 as a sub-$100 value pick, the fuller-featured Callaway Fairway 14, and the Sun Mountain C-130 cart bag for cart riders.
 
 ## Post count
 
-**134** posts published in `_posts/`.
+**135** posts published in `_posts/`.
 
 ## Outstanding one-time human steps
 
