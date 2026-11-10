@@ -1,14 +1,14 @@
-# Today — 2026-11-09
+# Today — 2026-11-10
 
 ## New post
 
-1. "[Best Golf Bags for Beginners](/sports/buying-guides/best-golf-bags-for-beginners/)" (Sports / Golf)
+1. "[Best Heated Vests for Cold Weather](/outdoor-recreation/buying-guides/best-heated-vests-for-cold-weather/)" (Outdoor & Recreation / Heated Vests — new subcategory)
 
-Covers the stand-bag-vs-cart-bag decision based on walking vs. riding, why weight matters for stand bags but not cart bags, 14-way vs. simpler divider systems, and pocket count/strap comfort. Picks span the ultra-budget Champkey carry bag, the Orlimar Pitch & Putt lightweight stand bag, the TaylorMade Stand Bag 5.0 as a sub-$100 value pick, the fuller-featured Callaway Fairway 14, and the Sun Mountain C-130 cart bag for cart riders.
+Covers the lightweight dedicated-battery heated vest vs. cordless-tool-battery (DEWALT 20V) design split, why heating-zone count and placement matter more than wattage specs, battery voltage/runtime trade-offs, and the washability caveat (battery/harness must be detached first). Picks span the budget SNOW LEOPARD vest, the widely-recommended ORORO and Venustas heated fleece vests, the DEWALT 20V Max heated vest for tool-ecosystem owners, and a Venustas heated down vest with detachable hood for harsher cold.
 
 ## Post count
 
-**135** posts published in `_posts/`.
+**136** posts published in `_posts/`.
 
 ## Outstanding one-time human steps
 
