@@ -1,14 +1,14 @@
-# Today — 2026-11-10
+# Today — 2026-11-11
 
 ## New post
 
-1. "[Best Heated Vests for Cold Weather](/outdoor-recreation/buying-guides/best-heated-vests-for-cold-weather/)" (Outdoor & Recreation / Heated Vests — new subcategory)
+1. "[Best Punching Bags for Home Boxing Workouts](/sports/buying-guides/best-punching-bags-for-home-boxing-workouts/)" (Sports / Boxing)
 
-Covers the lightweight dedicated-battery heated vest vs. cordless-tool-battery (DEWALT 20V) design split, why heating-zone count and placement matter more than wattage specs, battery voltage/runtime trade-offs, and the washability caveat (battery/harness must be detached first). Picks span the budget SNOW LEOPARD vest, the widely-recommended ORORO and Venustas heated fleece vests, the DEWALT 20V Max heated vest for tool-ecosystem owners, and a Venustas heated down vest with detachable hood for harsher cold.
+Covers the freestanding-vs-hanging decision driven by whether you have rated overhead mounting, matching fill weight to roughly half your body weight, base stability (suction-cup vs. weighted/water-filled bases) for freestanding bags, and fill-material/construction durability. Picks span the budget FITVEN 70" freestanding bag (gloves included), the Century BOB for technique/placement training, the Century Wavemaster XXL for maximum freestanding stability, and the Everlast Elite 80 lb and Outslayer 100 lb for anyone with solid overhead mounting.
 
 ## Post count
 
-**136** posts published in `_posts/`.
+**137** posts published in `_posts/`.
 
 ## Outstanding one-time human steps
 
