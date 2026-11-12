@@ -1,14 +1,14 @@
-# Today — 2026-11-11
+# Today — 2026-11-12
 
 ## New post
 
-1. "[Best Punching Bags for Home Boxing Workouts](/sports/buying-guides/best-punching-bags-for-home-boxing-workouts/)" (Sports / Boxing)
+1. "[Best Winter Hats and Beanies for Cold Weather](/outdoor-recreation/buying-guides/best-winter-hats-and-beanies-for-cold-weather/)" (Outdoor & Recreation / Winter Hats & Beanies — new subcategory)
 
-Covers the freestanding-vs-hanging decision driven by whether you have rated overhead mounting, matching fill weight to roughly half your body weight, base stability (suction-cup vs. weighted/water-filled bases) for freestanding bags, and fill-material/construction durability. Picks span the budget FITVEN 70" freestanding bag (gloves included), the Century BOB for technique/placement training, the Century Wavemaster XXL for maximum freestanding stability, and the Everlast Elite 80 lb and Outslayer 100 lb for anyone with solid overhead mounting.
+Covers the material trade-offs that matter most (acrylic vs. wool vs. merino wool vs. fleece-lined), the distinction between warmth-only knit beanies and wind/water-resistant or Thinsulate-insulated styles, ear/neck coverage via trapper-style ear flaps vs. a standard fold-down cuff, and fit/sizing differences between one-size casual beanies and sized technical hats. Picks span the budget Carhartt Knit Cuffed Beanie, the Minus33 Ridge Cuff Merino Wool Beanie, The North Face Salty Dog Lined Beanie, the Ergodyne N-Ferno 6802 Classic Trapper Hat for extreme cold/wind, and the women's-specific Turtle Fur Clara Beanie.
 
 ## Post count
 
-**137** posts published in `_posts/`.
+**138** posts published in `_posts/`.
 
 ## Outstanding one-time human steps
 
