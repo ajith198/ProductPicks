@@ -1,14 +1,14 @@
-# Today — 2026-11-12
+# Today — 2026-11-13
 
 ## New post
 
-1. "[Best Winter Hats and Beanies for Cold Weather](/outdoor-recreation/buying-guides/best-winter-hats-and-beanies-for-cold-weather/)" (Outdoor & Recreation / Winter Hats & Beanies — new subcategory)
+1. "[Best Snow Shovels for Driveways and Sidewalks](/outdoor-recreation/buying-guides/best-snow-shovels-for-driveways-and-sidewalks/)" (Outdoor & Recreation / Snow Shovels — new subcategory)
 
-Covers the material trade-offs that matter most (acrylic vs. wool vs. merino wool vs. fleece-lined), the distinction between warmth-only knit beanies and wind/water-resistant or Thinsulate-insulated styles, ear/neck coverage via trapper-style ear flaps vs. a standard fold-down cuff, and fit/sizing differences between one-size casual beanies and sized technical hats. Picks span the budget Carhartt Knit Cuffed Beanie, the Minus33 Ridge Cuff Merino Wool Beanie, The North Face Salty Dog Lined Beanie, the Ergodyne N-Ferno 6802 Classic Trapper Hat for extreme cold/wind, and the women's-specific Turtle Fur Clara Beanie.
+Covers push vs. scoop vs. combo blade design, poly vs. steel-edge blade material trade-offs, the bent/ergonomic shaft back-strain debate, and when a wheeled snow pusher is worth it for long driveways. Picks span the budget True Temper and Garant poly shovels, the ergonomic AMES True Temper combo shovel and Rugg Back Saver, and the Garvee 40" wheeled snow pusher for larger driveways.
 
 ## Post count
 
-**138** posts published in `_posts/`.
+**139** posts published in `_posts/`.
 
 ## Outstanding one-time human steps
 

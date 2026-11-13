@@ -2,4 +2,4 @@
 
 See [`today.md`](today.md) for the full daily summary.
 
-**Latest post:** "[Best Winter Hats and Beanies for Cold Weather](_posts/2026-11-12-best-winter-hats-and-beanies-for-cold-weather.md)" — published 2026-11-12.
+**Latest post:** "[Best Snow Shovels for Driveways and Sidewalks](_posts/2026-11-13-best-snow-shovels-for-driveways-and-sidewalks.md)" — published 2026-11-13.
