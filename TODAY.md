@@ -2,4 +2,4 @@
 
 See [`today.md`](today.md) for the full daily summary.
 
-**Latest post:** "[Best Snow Shovels for Driveways and Sidewalks](_posts/2026-11-13-best-snow-shovels-for-driveways-and-sidewalks.md)" — published 2026-11-13.
+**Latest post:** "[Best Golf Putters for Beginners](_posts/2026-11-14-best-golf-putters-for-beginners.md)" — published 2026-11-14.

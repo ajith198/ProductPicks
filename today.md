@@ -1,14 +1,14 @@
-# Today — 2026-11-13
+# Today — 2026-11-14
 
 ## New post
 
-1. "[Best Snow Shovels for Driveways and Sidewalks](/outdoor-recreation/buying-guides/best-snow-shovels-for-driveways-and-sidewalks/)" (Outdoor & Recreation / Snow Shovels — new subcategory)
+1. "[Best Golf Putters for Beginners](/golf/buying-guides/best-golf-putters-for-beginners/)" (Sports / Golf)
 
-Covers push vs. scoop vs. combo blade design, poly vs. steel-edge blade material trade-offs, the bent/ergonomic shaft back-strain debate, and when a wheeled snow pusher is worth it for long driveways. Picks span the budget True Temper and Garant poly shovels, the ergonomic AMES True Temper combo shovel and Rugg Back Saver, and the Garvee 40" wheeled snow pusher for larger driveways.
+Covers mallet vs. blade forgiveness, why alignment aids matter for beginners, toe-hang vs. face-balanced fit for different stroke types, length/grip sizing, and insert/face material feel. Picks span the budget Wilson Staff Harmonized and Pinemeadow PGX, the mid-range Cleveland HB Soft 2, and the premium Odyssey White Hot OG 2-Ball and One.
 
 ## Post count
 
-**139** posts published in `_posts/`.
+**140** posts published in `_posts/`.
 
 ## Outstanding one-time human steps
 
