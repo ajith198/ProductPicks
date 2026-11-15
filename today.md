@@ -1,14 +1,14 @@
-# Today — 2026-11-14
+# Today — 2026-11-15
 
 ## New post
 
-1. "[Best Golf Putters for Beginners](/golf/buying-guides/best-golf-putters-for-beginners/)" (Sports / Golf)
+1. "[Best Ski Boots for Beginners](/skiing/buying-guides/best-ski-boots-for-beginners/)" (Sports / Skiing & Snowboarding)
 
-Covers mallet vs. blade forgiveness, why alignment aids matter for beginners, toe-hang vs. face-balanced fit for different stroke types, length/grip sizing, and insert/face material feel. Picks span the budget Wilson Staff Harmonized and Pinemeadow PGX, the mid-range Cleveland HB Soft 2, and the premium Odyssey White Hot OG 2-Ball and One.
+Covers how flex rating (roughly 60-80 for men's, 50-75 for women's beginner boots) and last width (97-106mm) determine comfort and control, mondopoint sizing basics, why heat-moldable liners and GripWalk soles matter, and when a local boot fitter is worth the visit. Picks span the budget Nordica Cruise 60, the widely-recommended Rossignol Evo 70, the mid-tier Nordica The Cruise 80, the wide-calf-friendly Rossignol Kelia 50, and the premium BOA-closure K2 Anthem 95 BOA.
 
 ## Post count
 
-**140** posts published in `_posts/`.
+**141** posts published in `_posts/`.
 
 ## Outstanding one-time human steps
 
