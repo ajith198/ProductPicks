@@ -1,14 +1,14 @@
-# Today — 2026-11-15
+# Today — 2026-11-16
 
 ## New post
 
-1. "[Best Ski Boots for Beginners](/skiing/buying-guides/best-ski-boots-for-beginners/)" (Sports / Skiing & Snowboarding)
+1. "[Best Ski Jackets for Beginners](/skiing/buying-guides/best-ski-jackets-for-beginners/)" (Sports / Skiing & Snowboarding)
 
-Covers how flex rating (roughly 60-80 for men's, 50-75 for women's beginner boots) and last width (97-106mm) determine comfort and control, mondopoint sizing basics, why heat-moldable liners and GripWalk soles matter, and when a local boot fitter is worth the visit. Picks span the budget Nordica Cruise 60, the widely-recommended Rossignol Evo 70, the mid-tier Nordica The Cruise 80, the wide-calf-friendly Rossignol Kelia 50, and the premium BOA-closure K2 Anthem 95 BOA.
+Covers the shell-vs-insulated decision for a first jacket, how to read waterproof (hydrostatic head, 10k-20k) and breathability ratings, why pit zips and a powder skirt matter, and when a 3-in-1 system is better value than a single-layer jacket. Picks span the budget REI Co-op Powderbound Insulated and GEMYSE 3-in-1, the mid-tier Columbia Tipton Peak III Insulated and Spyder 3-in-1, and the wetter-climate-friendly Columbia Women's Whirlibird V Interchange.
 
 ## Post count
 
-**141** posts published in `_posts/`.
+**142** posts published in `_posts/`.
 
 ## Outstanding one-time human steps
 
