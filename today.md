@@ -1,14 +1,14 @@
-# Today — 2026-11-16
+# Today — 2026-11-17
 
 ## New post
 
-1. "[Best Ski Jackets for Beginners](/skiing/buying-guides/best-ski-jackets-for-beginners/)" (Sports / Skiing & Snowboarding)
+1. "[Best Snowboards for Beginners](/skiing-snowboarding/buying-guides/best-snowboards-for-beginners/)" (Sports / Skiing & Snowboarding)
 
-Covers the shell-vs-insulated decision for a first jacket, how to read waterproof (hydrostatic head, 10k-20k) and breathability ratings, why pit zips and a powder skirt matter, and when a 3-in-1 system is better value than a single-layer jacket. Picks span the budget REI Co-op Powderbound Insulated and GEMYSE 3-in-1, the mid-tier Columbia Tipton Peak III Insulated and Spyder 3-in-1, and the wetter-climate-friendly Columbia Women's Whirlibird V Interchange.
+Covers twin vs. directional-twin shape, flex rating, and — the detail most guides skip — camber vs. rocker vs. hybrid profile and why rocker/hybrid is more forgiving for beginners, plus sizing by rider weight and boot width and a note on binding mount compatibility. Picks span the budget-to-mid-tier Burton Ripcord, Rossignol District, K2 Standard, K2 Gateway, and Ride Agenda.
 
 ## Post count
 
-**142** posts published in `_posts/`.
+**143** posts published in `_posts/`.
 
 ## Outstanding one-time human steps
 
