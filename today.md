@@ -1,14 +1,14 @@
-# Today — 2026-11-18
+# Today — 2026-11-19
 
 ## New post
 
-1. "[Best Ice Cream Makers for Home](/home-kitchen/buying-guides/best-ice-cream-makers-for-home/)" (Home & Kitchen / Ice Cream Makers — new subcategory)
+1. "[Best Dry Bags for Kayaking and Camping](/outdoor-recreation/buying-guides/best-dry-bags-for-kayaking-and-camping/)" (Outdoor & Recreation / Dry Bags — new subcategory)
 
-Covers the three different mechanisms (freezer-bowl, compressor, and pint-spin like the Ninja CREAMi) and clears up the common confusion that the Creami still requires a 24-hour pre-freeze, unlike true compressor machines. Also covers batch size/texture trade-offs and cleanup. Picks span the budget Cuisinart ICE-21, the single-serving Ninja CREAMi NC301, the on-demand Whynter ICM-201SB, the gelato-capable Cuisinart ICE-100, and the premium Breville Smart Scoop.
+Covers roll-top closure quality (number of rolls before the buckle), sewn-and-taped vs. fully welded seams, submersion ratings, clear-panel "see-through" bags, and sizing by trip length. Picks span the budget Earth Pak 40L, the mid-range SealLine Baja, the abrasion-resistant Sea to Summit Big River, the budget large-volume NRS Bill's Bag, and the premium, fully submersible YETI Panga 50 Dry Duffel.
 
 ## Post count
 
-**144** posts published in `_posts/`.
+**145** posts published in `_posts/`.
 
 ## Outstanding one-time human steps
 
@@ -16,4 +16,4 @@ Covers the three different mechanisms (freezer-bowl, compressor, and pint-spin l
 2. **Apply for Amazon Associates and Google AdSense, if you haven't yet.** The site is well past 100 posts now — both applications require identity/tax information only you can provide.
 3. **No Amazon Associates tracking ID yet.** All affiliate links still use the placeholder `AMAZON_AFFILIATE_LINK_PLACEHOLDER` (see `config/affiliate.md`). Once approved, add your real tracking ID there and future posts will pick it up automatically — old posts won't be retroactively edited. This reminder will stop once you confirm approval and set a real ID.
 
-Next runs should keep adding new buyer-intent posts spread across categories per `categories.md`, and keep `content-log.md` up to date to avoid repeating subtopics. The last several days leaned heavily on Sports / Skiing & Snowboarding — future runs should keep diversifying across Home & Kitchen and Outdoor & Recreation too.
+Next runs should keep adding new buyer-intent posts spread across categories per `categories.md`, and keep `content-log.md` up to date to avoid repeating subtopics. Today's run deliberately moved back to Outdoor & Recreation after three straight Sports/Skiing posts and a Home & Kitchen post — keep diversifying across all three verticals rather than clustering on one.
