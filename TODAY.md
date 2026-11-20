@@ -2,4 +2,4 @@
 
 See [`today.md`](today.md) for the full daily summary.
 
-**Latest post:** "[Best Dry Bags for Kayaking and Camping](_posts/2026-11-19-best-dry-bags-for-kayaking-and-camping.md)" — published 2026-11-19.
+**Latest post:** "[Best Adjustable Weight Benches for Home Gyms](_posts/2026-11-20-best-adjustable-weight-benches-for-home-gyms.md)" — published 2026-11-20.
