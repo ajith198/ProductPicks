@@ -1,14 +1,14 @@
-# Today — 2026-11-20
+# Today — 2026-11-21
 
 ## New post
 
-1. "[Best Adjustable Weight Benches for Home Gyms](/sports/buying-guides/best-adjustable-weight-benches-for-home-gyms/)" (Sports / Fitness)
+1. "[Best Padel Paddles for Beginners](/sports/buying-guides/best-padel-paddles-for-beginners/)" (Sports / Padel — new subcategory)
 
-Covers why marketed weight capacity isn't real-world capacity (flat vs. angled ratings, body weight + load math), incline/decline position count and pin vs. lever adjustment mechanisms, frame stability/footprint, the folding-vs-fixed-frame stability trade-off, leg hold-down attachments, and power-rack compatibility. Picks span the budget Fitness Reality 1000 Super Max, the feature-rich Flybird, the space-saving Bowflex 5.1S Stowable, the heavy-duty fixed-frame Titan Fitness Series, and the rack-ready REP Fitness AB-3000 2.0 FID.
+Padel is one of the fastest-growing racket sports in the US right now, and the gear category was still untouched on this site despite its overlap with the pickleball/tennis audience we already write for. Covers the three racket shapes (round vs. teardrop vs. diamond) and why round is the forgiving beginner choice, soft vs. hard EVA foam core, the 340-375g weight range, balance point, and surface texture/spin. Picks span the ultra-forgiving budget Babolat Contact, the mainstream oversized-head Wilson Optix V1, the step-up HEAD Flash, and the more power-oriented GAMMA RZR.
 
 ## Post count
 
-**146** posts published in `_posts/`.
+**147** posts published in `_posts/`.
 
 ## Outstanding one-time human steps
 
@@ -16,4 +16,4 @@ Covers why marketed weight capacity isn't real-world capacity (flat vs. angled r
 2. **Apply for Amazon Associates and Google AdSense, if you haven't yet.** The site is well past 100 posts now — both applications require identity/tax information only you can provide.
 3. **No Amazon Associates tracking ID yet.** All affiliate links still use the placeholder `AMAZON_AFFILIATE_LINK_PLACEHOLDER` (see `config/affiliate.md`). Once approved, add your real tracking ID there and future posts will pick it up automatically — old posts won't be retroactively edited. This reminder will stop once you confirm approval and set a real ID.
 
-Next runs should keep adding new buyer-intent posts spread across categories per `categories.md`, and keep `content-log.md` up to date to avoid repeating subtopics. Today's run moved back to Sports/Fitness after two straight days in Home & Kitchen (Ice Cream Makers) and Outdoor & Recreation (Dry Bags) — keep diversifying across all three verticals rather than clustering on one.
+Next runs should keep adding new buyer-intent posts spread across categories per `categories.md`, and keep `content-log.md` up to date to avoid repeating subtopics. Today's run added a brand-new Sports subcategory (Padel) rather than deepening an existing one — the last three days had already rotated through Home & Kitchen, Outdoor & Recreation, and Sports/Fitness, so a fresh subcategory kept things from feeling repetitive while staying squarely evergreen and buyer-intent.

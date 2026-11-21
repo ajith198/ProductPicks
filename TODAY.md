@@ -2,4 +2,4 @@
 
 See [`today.md`](today.md) for the full daily summary.
 
-**Latest post:** "[Best Adjustable Weight Benches for Home Gyms](_posts/2026-11-20-best-adjustable-weight-benches-for-home-gyms.md)" — published 2026-11-20.
+**Latest post:** "[Best Padel Paddles for Beginners](_posts/2026-11-21-best-padel-paddles-for-beginners.md)" — published 2026-11-21.
