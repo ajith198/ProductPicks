@@ -2,4 +2,4 @@
 
 See [`today.md`](today.md) for the full daily summary.
 
-**Latest post:** "[Best Soccer Shin Guards for Youth and Adult Players](_posts/2026-11-24-best-soccer-shin-guards-for-youth-and-adult-players.md)" — published 2026-11-24.
+**Latest post:** "[Best Skateboards for Beginners in 2026](_posts/2026-11-25-best-skateboards-for-beginners.md)" — published 2026-11-25.
